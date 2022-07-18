@@ -1,0 +1,145 @@
+,HMD,task,subID,type,path,max_lum_roc,max_lum_frame,max_lum_time(s),min_lum_roc,min_lum_frame,min_lum_time(s)
+0,PI,sandwich,P23,full,/data/AMPs/first-round/avg-lum-per-frame/P23_sandwich_pi_PI world v1 ps1.csv,0.8656716417910448,583.0,19.433314547795938,-0.31707317073170727,532.0,17.73331619112768
+1,PI,sandwich,P23,merged,/data/AMPs/first-round/avg-lum-per-frame/P23_sandwich_pi_Subject23_sandwich_merged_for_tagging.csv,0.23684210526315796,197.0,6.5732333267601,-1.0,34219.0,1141.7739655248927
+2,PI,sandwich,P13,full,/data/AMPs/first-round/avg-lum-per-frame/P13_sandwich_pi_PI world v1 ps1.csv,0.8269230769230769,789.0,26.29997457669124,-1.0,16457.0,548.5661363860681
+3,PI,sandwich,P13,merged,/data/AMPs/first-round/avg-lum-per-frame/P13_sandwich_pi_Subject13_sandwich_merged_for_tagging.csv,0.4055944055944056,62.0,2.0687333312646,-0.40664961636828645,95.0,3.1698333301634998
+4,PI,sandwich,P6,full,/data/AMPs/first-round/avg-lum-per-frame/P6_sandwich_pi_PI world v1 ps1.csv,1.1052631578947367,1813.0,60.43327491450091,-0.8513513513513513,1808.0,60.2666084089452
+5,PI,sandwich,P6,merged,/data/AMPs/first-round/avg-lum-per-frame/P6_sandwich_pi_Subject6_sandwich_merged_for_tagging.csv,1.022727272727273,23.0,0.7674333325659,-1.0,19165.0,639.4721660271945
+6,PI,sandwich,P1,full,/data/AMPs/first-round/avg-lum-per-frame/P1_sandwich_pi_PI world v1 ps1.csv,1.0363636363636362,6197.0,206.56646698574858,-0.7563025210084033,381.0,12.6999877233452
+7,PI,sandwich,P1,merged,/data/AMPs/first-round/avg-lum-per-frame/P1_sandwich_pi_Subject1_sandwich_merged_for_tagging.csv,0.03896103896103886,10144.0,338.47146632819516,-0.038812785388127824,16735.0,558.3911661082755
+8,PI,sandwich,P14,full,/data/AMPs/first-round/avg-lum-per-frame/P14_sandwich_pi_PI world v1 ps1.csv,0.5323741007194245,1425.0,47.499954083377716,-1.0,16168.0,538.9328123649481
+9,PI,sandwich,P14,merged,/data/AMPs/first-round/avg-lum-per-frame/P14_sandwich_pi_Subject14_sandwich_merged_for_tagging.csv,0.23908523908523915,218.0,7.2739333260593995,-1.0,14885.0,496.6628328366705
+10,PI,sandwich,P24,full,/data/AMPs/first-round/avg-lum-per-frame/P24_sandwich_pi_PI world v1 ps1.csv,0.42105263157894735,707.0,23.566643885577577,-1.0,16570.0,552.3327994116272
+11,PI,sandwich,P24,merged,/data/AMPs/first-round/avg-lum-per-frame/P24_sandwich_pi_Subject24_sandwich_merged_for_tagging.csv,0.2931034482758621,57.0,1.9018999980981,-0.3375,5.0,0.16683333316649998
+12,PI,sandwich,P18,full,/data/AMPs/first-round/avg-lum-per-frame/P18_sandwich_pi_PI world v1 ps1.csv,1.0416666666666665,4255.0,141.8331962279103,-0.5272727272727273,4250.0,141.6665297223546
+13,PI,sandwich,P18,merged,/data/AMPs/first-round/avg-lum-per-frame/P18_sandwich_pi_Subject18_sandwich_merged_for_tagging.csv,0.34172661870503607,147.0,4.9048999950951,-1.0,8511.0,283.9836997160163
+14,PI,sandwich,P5,full,/data/AMPs/first-round/avg-lum-per-frame/P5_sandwich_pi_PI world v1 ps1.csv,1.954954954954955,1267.0,42.23329250781724,-0.7103658536585367,1268.0,42.26662580892838
+15,PI,sandwich,P5,merged,/data/AMPs/first-round/avg-lum-per-frame/P5_sandwich_pi_Subject5_sandwich_merged_for_tagging.csv,1.5875,129.0,4.3042999956956995,-1.0,12772.0,426.15906624050757
+16,PI,sandwich,P21,full,/data/AMPs/first-round/avg-lum-per-frame/P21_sandwich_pi_PI world v1 ps1.csv,0.9128205128205129,1119.0,37.29996394336818,-0.5703703703703704,1067.0,35.56663228558879
+17,PI,sandwich,P21,merged,/data/AMPs/first-round/avg-lum-per-frame/P21_sandwich_pi_Subject21_sandwich_merged_for_tagging.csv,0.5412541254125414,63.0,2.1020999978979,-1.0,15954.0,532.3317994676681
+18,PI,sandwich,P2,full,/data/AMPs/first-round/avg-lum-per-frame/P2_sandwich_pi_PI world v1 ps1.csv,inf,1.0,0.03333330111114226,-0.6006191950464397,604.0,20.133313871129925
+19,PI,sandwich,P2,merged,/data/AMPs/first-round/avg-lum-per-frame/P2_sandwich_pi_Subject2_sandwich_merged_for_tagging.csv,0.26555023923444976,293.0,9.7764333235569,-1.0,11369.0,379.34563295398766
+20,PI,sandwich,P4,full,/data/AMPs/first-round/avg-lum-per-frame/P4_sandwich_pi_PI world v1 ps1.csv,inf,1.0,0.03333330111114226,-0.6640316205533596,745.0,24.833309327800983
+21,PI,sandwich,P4,merged,/data/AMPs/first-round/avg-lum-per-frame/P4_sandwich_pi_Subject4_sandwich_merged_for_tagging.csv,0.5976331360946745,162.0,5.4053999945946,-1.0,15540.0,518.517999481482
+22,PI,sandwich,P10,full,/data/AMPs/first-round/avg-lum-per-frame/P10_sandwich_pi_PI world v1 ps1.csv,1.0122448979591838,1136.0,37.866630062257606,-0.7536945812807881,1171.0,39.033295601147586
+23,PI,sandwich,P10,merged,/data/AMPs/first-round/avg-lum-per-frame/P10_sandwich_pi_Subject10_sandwich_merged_for_tagging.csv,0.5984654731457801,7.0,0.23356666643309998,-0.5725,42.0,1.4013999985985999
+24,PI,sandwich,P15,full,/data/AMPs/first-round/avg-lum-per-frame/P15_sandwich_pi_PI world v1 ps1.csv,inf,1.0,0.03333330111114226,-0.692,743.0,24.7666427255787
+25,PI,sandwich,P15,merged,/data/AMPs/first-round/avg-lum-per-frame/P15_sandwich_pi_Subject15_sandwich_merged_for_tagging.csv,0.3129102844638949,19.0,0.6339666660327,-1.0,17525.0,584.7508327485825
+26,PI,sandwich,P9,full,/data/AMPs/first-round/avg-lum-per-frame/P9_sandwich_pi_PI world v1 ps1.csv,0.788888888888889,1470.0,48.99995263337912,-0.7127659574468085,1324.0,44.13329067115235
+27,PI,sandwich,P9,merged,/data/AMPs/first-round/avg-lum-per-frame/P9_sandwich_pi_Subject9_sandwich_merged_for_tagging.csv,0.8296296296296297,9.0,0.3002999996997,-1.0,9948.0,331.9315996680684
+28,PI,sandwich,P12,full,/data/AMPs/first-round/avg-lum-per-frame/P12_sandwich_pi_PI world v1 ps1.csv,0.48467966573816157,1037.0,34.56663325225452,-0.5319767441860466,992.0,33.06663470225312
+29,PI,sandwich,P12,merged,/data/AMPs/first-round/avg-lum-per-frame/P12_sandwich_pi_Subject12_sandwich_merged_for_tagging.csv,0.43279569892473124,221.0,7.374033325959299,-1.0,21625.0,721.5541659451125
+30,PI,sandwich,P22,full,/data/AMPs/first-round/avg-lum-per-frame/P22_sandwich_pi_PI world v1 ps1.csv,0.5103448275862068,757.0,25.233308941134688,-0.5510835913312693,752.0,25.066642435578977
+31,PI,sandwich,P22,merged,/data/AMPs/first-round/avg-lum-per-frame/P22_sandwich_pi_Subject22_Sandwich_merged_for_tagging.csv,0.2922374429223744,77.0,2.5692333307640998,-0.23983739837398377,7.0,0.23356666643309998
+32,PI,sandwich,P11,full,/data/AMPs/first-round/avg-lum-per-frame/P11_sandwich_pi_PI world v1 ps1.csv,inf,1.0,0.03333330111114226,-0.5622895622895623,1403.0,46.76662145893259
+33,PI,sandwich,P11,merged,/data/AMPs/first-round/avg-lum-per-frame/P11_sandwich_pi_Subject11_sandwich_merged_for_tagging.csv,0.4453125,259.0,8.6419666580247,-1.0,13576.0,452.98586621368077
+34,PI,sandwich,P19,full,/data/AMPs/first-round/avg-lum-per-frame/P19_sandwich_pi_PI world v1 ps1.csv,0.39403973509933765,1399.0,46.633288254488015,-0.25547445255474455,1347.0,44.89995659670862
+35,PI,sandwich,P19,merged,/data/AMPs/first-round/avg-lum-per-frame/P19_sandwich_pi_Subject19_sandwich_merged_for_tagging.csv,0.23593073593073588,63.0,2.1020999978979,-0.19117647058823528,11.0,0.3670333329663
+36,PI,sandwich,P8,full,/data/AMPs/first-round/avg-lum-per-frame/P8_sandwich_pi_PI world v1 ps1.csv,0.36708860759493667,2194.0,73.13326263784612,-0.2952029520295203,2935.0,97.83323876120252
+37,PI,sandwich,P8,merged,/data/AMPs/first-round/avg-lum-per-frame/P8_sandwich_pi_Subject8_sandwich_merged_for_tagging.csv,0.43317972350230405,205.0,6.8401666598265,-0.5256410256410257,59.0,1.9686333313647
+38,PI,cereal,P18,full,/data/AMPs/first-round/avg-lum-per-frame/P18_cereal_pi_PI world v1 ps1.csv,0.6125,773.0,25.766641758912964,-0.5698924731182795,769.0,25.633308554468396
+39,PI,cereal,P18,merged,/data/AMPs/first-round/avg-lum-per-frame/P18_cereal_pi_Subject18_cereal_merged_for_tagging.csv,0.36202531645569613,42.0,1.4013999985985999,-0.5742092457420924,61.0,2.0353666646313
+40,PI,cereal,P8,full,/data/AMPs/first-round/avg-lum-per-frame/P8_cereal_pi_PI world v1 ps1.csv,0.4819277108433735,1135.0,37.833296761146464,-0.4575163398692811,4563.0,152.0998529701421
+41,PI,cereal,P8,merged,/data/AMPs/first-round/avg-lum-per-frame/P8_cereal_pi_Subject8_cereal_merged_for_tagging.csv,0.4291187739463602,164.0,5.4721333278612,-0.3307692307692308,163.0,5.4387666612279
+42,PI,cereal,P6,full,/data/AMPs/first-round/avg-lum-per-frame/P6_cereal_pi_PI world v1 ps1.csv,1.4193548387096775,1613.0,53.76661469227246,-0.8333333333333334,1614.0,53.799947993383604
+43,PI,cereal,P6,merged,/data/AMPs/first-round/avg-lum-per-frame/P6_cereal_pi_Subject6_cereal_merged_for_tagging.csv,0.5269978401727862,50.0,1.668333331665,-1.0,6726.0,224.4241997755758
+44,PI,cereal,P5,full,/data/AMPs/first-round/avg-lum-per-frame/P5_cereal_pi_PI world v1 ps1.csv,0.8840579710144927,1896.0,63.19993890672572,-0.7467248908296944,1787.0,59.56660908561121
+45,PI,cereal,P5,merged,/data/AMPs/first-round/avg-lum-per-frame/P5_cereal_pi_Subject5_cereal_merged_for_tagging.csv,0.6324324324324324,50.0,1.668333331665,-1.0,3866.0,128.9955332043378
+46,PI,cereal,P25,full,/data/AMPs/first-round/avg-lum-per-frame/P25_cereal_pi_PI world v1 ps1.csv,0.39473684210526305,857.0,28.566639052248913,-0.3884057971014493,852.0,28.399972546693203
+47,PI,cereal,P25,merged,/data/AMPs/first-round/avg-lum-per-frame/P25_cereal_pi_Subject25_cereal_merged_for_tagging.csv,0.24829157175398642,72.0,2.4023999975976,-0.24181360201511337,20.0,0.6673333326659999
+48,PI,cereal,P3,full,/data/AMPs/first-round/avg-lum-per-frame/P3_cereal_pi_PI world v1 ps1.csv,1.0559006211180124,554.0,18.46664881557281,-0.6944444444444444,502.0,16.73331715779341
+49,PI,cereal,P3,merged,/data/AMPs/first-round/avg-lum-per-frame/P3_cereal_pi_Subject3_cereal_merged_for_tagging.csv,0.37209302325581395,93.0,3.1030999968969,-0.5979381443298969,1.0,0.0333666666333
+50,PI,cereal,P2,full,/data/AMPs/first-round/avg-lum-per-frame/P2_cereal_pi_PI world v1 ps1.csv,0.5494505494505495,392.0,13.066654035567765,-0.6101694915254237,387.0,12.899987530012053
+51,PI,cereal,P2,merged,/data/AMPs/first-round/avg-lum-per-frame/P2_cereal_pi_Subject2_cereal_merged_for_tagging.csv,0.2867469879518072,220.0,7.340666659326,-0.3324324324324325,88.0,2.9362666637304
+52,PI,cereal,P13,full,/data/AMPs/first-round/avg-lum-per-frame/P13_cereal_pi_PI world v1 ps1.csv,0.7452471482889733,514.0,17.13331677112712,-0.47813411078717205,550.0,18.333315611128242
+53,PI,cereal,P13,merged,/data/AMPs/first-round/avg-lum-per-frame/P13_cereal_pi_Subject13_cereal_merged_for_tagging.csv,0.5307017543859649,140.0,4.671333328662,-1.0,5171.0,172.5390331607943
+54,PI,cereal,P15,full,/data/AMPs/first-round/avg-lum-per-frame/P15_cereal_pi_PI world v1 ps1.csv,1.0630630630630629,830.0,27.666639922248073,-0.5773809523809523,851.0,28.36663924558206
+55,PI,cereal,P15,merged,/data/AMPs/first-round/avg-lum-per-frame/P15_cereal_pi_Subject15_cereal_merged_for_tagging.csv,0.3849206349206349,54.0,1.8017999981982,-1.0,4103.0,136.9034331964299
+56,PI,cereal,P23,full,/data/AMPs/first-round/avg-lum-per-frame/P23_cereal_pi_PI world v1 ps1.csv,inf,1.0,0.03333330111114226,-1.0,6137.0,204.56646891908002
+57,PI,cereal,P23,merged,/data/AMPs/first-round/avg-lum-per-frame/P23_cereal_pi_Subject23_cereal_merged_for_tagging.csv,0.23029045643153534,131.0,4.3710333289623,-1.0,5799.0,193.49329980650668
+58,PI,cereal,P10,full,/data/AMPs/first-round/avg-lum-per-frame/P10_cereal_pi_PI world v1 ps1.csv,0.7478260869565216,1249.0,41.63329308781668,-0.7174887892376682,1284.0,42.79995862670666
+59,PI,cereal,P10,merged,/data/AMPs/first-round/avg-lum-per-frame/P10_cereal_pi_Subject10_cereal_merged_for_tagging.csv,0.7816091954022988,15.0,0.5004999994995,-0.07643312101910826,17.0,0.5672333327661
+60,PI,cereal,P12,full,/data/AMPs/first-round/avg-lum-per-frame/P12_cereal_pi_PI world v1 ps1.csv,1.6195652173913042,10221.0,340.699670656985,-0.6040462427745665,3071.0,102.36656771231787
+61,PI,cereal,P12,merged,/data/AMPs/first-round/avg-lum-per-frame/P12_cereal_pi_Subject12_cereal_merged_for_tagging.csv,0.9253112033195021,8292.0,276.6763997233236,-0.4740740740740741,188.0,6.272933327060399
+62,PI,cereal,P9,full,/data/AMPs/first-round/avg-lum-per-frame/P9_cereal_pi_PI world v1 ps1.csv,1.9130434782608696,1184.0,39.46662851559243,-1.0,4468.0,148.9331893645836
+63,PI,cereal,P9,merged,/data/AMPs/first-round/avg-lum-per-frame/P9_cereal_pi_Subject9_cereal_merged_for_tagging.csv,1.875,80.0,2.6693333306639997,-1.0,3174.0,105.9057998940942
+64,PI,cereal,P1,full,/data/AMPs/first-round/avg-lum-per-frame/P1_cereal_pi_PI world v1 ps1.csv,0.6101694915254237,512.0,17.066650168904836,-0.6549707602339181,508.0,16.933316964460268
+65,PI,cereal,P1,merged,/data/AMPs/first-round/avg-lum-per-frame/P1_cereal_pi_Subject1_cereal_merged_for_tagging.csv,0.4274809160305344,98.0,3.2699333300633997,-1.0,4634.0,154.6211331787122
+66,PI,cereal,P4,full,/data/AMPs/first-round/avg-lum-per-frame/P4_cereal_pi_PI world v1 ps1.csv,inf,1.0,0.03333330111114226,-0.8037037037037037,842.0,28.066639535581782
+67,PI,cereal,P4,merged,/data/AMPs/first-round/avg-lum-per-frame/P4_cereal_pi_Subject4_cereal_merged_for_tagging.csv,1.2401433691756272,242.0,8.074733325258599,-0.4817987152034261,244.0,8.1414666585252
+68,PI,cereal,P11,full,/data/AMPs/first-round/avg-lum-per-frame/P11_cereal_pi_PI world v1 ps1.csv,0.7718446601941749,1366.0,45.533289317820326,-1.0,6809.0,226.96644726576764
+69,PI,cereal,P11,merged,/data/AMPs/first-round/avg-lum-per-frame/P11_cereal_pi_Subject11_cereal_merged_for_tagging.csv,0.5134408602150538,238.0,7.941266658725399,-0.554726368159204,94.0,3.1364666635301997
+70,PI,cereal,P17,full,/data/AMPs/first-round/avg-lum-per-frame/P17_cereal_pi_PI world v1 ps1.csv,0.48221343873517797,536.0,17.86664939557225,-0.3153153153153153,557.0,18.566648718906237
+71,PI,cereal,P17,merged,/data/AMPs/first-round/avg-lum-per-frame/P17_cereal_pi_Subject17_cereal_merged_for_tagging.csv,0.26588235294117646,36.0,1.2011999987988,-0.2904191616766467,57.0,1.9018999980981
+72,varjo,cereal,P14,full,/data/AMPs/second-round/avg-lum-per-frame/P14_cereal_varjo_P14_cereal_2022-02-01_14-06-21-511.csv,1.5147928994082842,252.0,8.39999188000785,-0.6051502145922747,206.0,6.866660028895305
+73,varjo,cereal,P14,merged,/data/AMPs/second-round/avg-lum-per-frame/P14_cereal_varjo_P14_cereal_2_merged_2022-02-01_14-06-21-511.csv,0.7328244274809161,184.0,6.1394666605272,-0.4989733059548255,138.0,4.6045999953954
+74,varjo,cereal,P23,full,/data/AMPs/second-round/avg-lum-per-frame/P23_cereal_varjo_P23_cereal_2022-02-11_14-23-20-032.csv,0.9312977099236641,314.0,10.46665654889867,-0.551433389544688,201.0,6.699993523339594
+75,varjo,cereal,P23,merged,/data/AMPs/second-round/avg-lum-per-frame/P23_cereal_varjo_P23_cereal_2_merged_varjo.csv,0.526829268292683,290.0,9.676333323657,-0.5088105726872247,177.0,5.9058999940941
+76,varjo,cereal,P19,full,/data/AMPs/second-round/avg-lum-per-frame/P19_cereal_varjo_P19_cereal_2022-02-11_11-06-31-382.csv,0.9841269841269842,273.0,9.099991203341837,-0.6946902654867257,174.0,5.7999943933387526
+77,varjo,cereal,P19,merged,/data/AMPs/second-round/avg-lum-per-frame/P19_cereal_varjo_P19_cereal_2_merged_varjo.csv,0.5677570093457944,184.0,6.1394666605272,-0.5905707196029777,85.0,2.8361666638305
+78,varjo,cereal,P2,full,/data/AMPs/second-round/avg-lum-per-frame/P2_cereal_varjo_P2_cereal_2022-02-04_14-38-42-103.csv,1.2787610619469025,239.0,7.966658965563,-0.4736842105263158,193.0,6.433327114450456
+79,varjo,cereal,P2,merged,/data/AMPs/second-round/avg-lum-per-frame/P2_cereal_varjo_P2_cereal_2_merged_varjo.csv,0.8416666666666666,222.0,7.4073999925926,-0.5145228215767634,220.0,7.340666659326
+80,varjo,cereal,P9,full,/data/AMPs/second-round/avg-lum-per-frame/P9_cereal_varjo_P9_cereal_2022-02-04_10-26-52-492.csv,2.1176470588235294,328.0,10.93332276445466,-0.5721518987341772,210.0,6.999993233339874
+81,varjo,cereal,P9,merged,/data/AMPs/second-round/avg-lum-per-frame/P9_cereal_varjo_P9_cereal_2_merged_varjo.csv,0.7765957446808511,156.0,5.2051999947948,-1.0,3606.0,120.32019987967979
+82,varjo,cereal,P18,full,/data/AMPs/second-round/avg-lum-per-frame/P18_cereal_varjo_P18_cereal_2022-02-15_10-38-48-194.csv,0.763157894736842,371.0,12.366654712233778,-0.4551282051282052,329.0,10.966656065565802
+83,varjo,cereal,P18,merged,/data/AMPs/second-round/avg-lum-per-frame/P18_cereal_varjo_P18_cereal_2_merged_varjo.csv,0.5586854460093897,263.0,8.7754333245579,-0.37396694214876036,221.0,7.374033325959299
+84,varjo,cereal,P21,full,/data/AMPs/second-round/avg-lum-per-frame/P21_cereal_varjo_P21_cereal_2022-02-14_14-16-50-351.csv,1.5,930.0,30.9999700333623,-0.5910224438902743,890.0,29.66663798891661
+85,varjo,cereal,P21,merged,/data/AMPs/second-round/avg-lum-per-frame/P21_cereal_varjo_P21_cereal_2_merged_varjo.csv,1.141891891891892,182.0,6.0727333272605994,-0.6484560570071258,181.0,6.0393666606273
+86,varjo,cereal,P22,full,/data/AMPs/second-round/avg-lum-per-frame/P22_cereal_varjo_P22_cereal_2022-02-08_14-08-32-700.csv,3.6966292134831464,425.0,14.16665297223546,-0.8455497382198953,334.0,11.133322571121514
+87,varjo,cereal,P22,merged,/data/AMPs/second-round/avg-lum-per-frame/P22_cereal_varjo_P22_cereal_2_merged_varjo.csv,0.3581780538302277,360.0,12.011999987988,-0.38394793926247284,269.0,8.9756333243577
+88,varjo,cereal,P5,full,/data/AMPs/second-round/avg-lum-per-frame/P5_cereal_varjo_P5_cereal_2022-02-08_10-22-45-519.csv,3.878787878787879,200.0,6.666660222228452,-0.4823151125401929,121.0,4.033329434448214
+89,varjo,cereal,P5,merged,/data/AMPs/second-round/avg-lum-per-frame/P5_cereal_varjo_P5_cereal_2_merged_varjo.csv,0.5557851239669422,182.0,6.0727333272605994,-0.5082644628099173,104.0,3.4701333298632
+90,varjo,cereal,P16,full,/data/AMPs/second-round/avg-lum-per-frame/P16_cereal_varjo_P16_cereal_2022-02-02_10-48-46-081.csv,0.5181159420289856,137.0,4.5666622522264895,-0.4442307692307692,95.0,3.1666636055585147
+91,varjo,cereal,P16,merged,/data/AMPs/second-round/avg-lum-per-frame/P16_cereal_varjo_P16_cereal_2_merged_2022-02-02_10-48-46-081.csv,0.5324947589098532,170.0,5.672333327661,-1.0,6820.0,227.560666439106
+92,varjo,cereal,P4,full,/data/AMPs/second-round/avg-lum-per-frame/P4_cereal_varjo_P4_cereal_2022-02-14_10-11-48-204.csv,0.4577464788732395,228.0,7.5999926533404345,-0.33577981651376143,186.0,6.19999400667246
+93,varjo,cereal,P4,merged,/data/AMPs/second-round/avg-lum-per-frame/P4_cereal_varjo_P4_cereal_2_merged_varjo.csv,0.6796116504854368,191.0,6.3730333269603,-0.4345991561181435,189.0,6.3062999936937
+94,varjo,cereal,P13,full,/data/AMPs/second-round/avg-lum-per-frame/P13_cereal_varjo_P13_cereal_2022-02-07_11-49-49-595.csv,0.6403785488958991,137.0,4.5666622522264895,-0.6003976143141153,92.0,3.0666637022250876
+95,varjo,cereal,P13,merged,/data/AMPs/second-round/avg-lum-per-frame/P13_cereal_varjo_P13_cereal_2_merged_varjo.csv,0.35084033613445387,142.0,4.7380666619286,-0.4189473684210526,97.0,3.2365666634301
+96,varjo,cereal,P25,full,/data/AMPs/second-round/avg-lum-per-frame/P25_cereal_varjo_P25_cereal_2022-02-09_11-13-19-240.csv,8.619718309859154,194.0,6.466660415561598,-0.8950354609929078,147.0,4.899995263337912
+97,varjo,cereal,P25,merged,/data/AMPs/second-round/avg-lum-per-frame/P25_cereal_varjo_P25_cereal_2_merged_varjo.csv,0.3821292775665399,200.0,6.67333332666,-0.5273972602739726,153.0,5.1050999948949
+98,varjo,cereal,P24,full,/data/AMPs/second-round/avg-lum-per-frame/P24_cereal_varjo_P24_cereal_2022-02-16_10-09-08-765.csv,0.9570815450643777,293.0,9.766657225564682,-0.5674418604651164,228.0,7.5999926533404345
+99,varjo,cereal,P24,merged,/data/AMPs/second-round/avg-lum-per-frame/P24_cereal_varjo_P24_cereal_2_merged_varjo.csv,1.2440944881889764,137.0,4.5712333287621,-0.7107061503416856,136.0,4.5378666621288
+100,varjo,cereal,P15,full,/data/AMPs/second-round/avg-lum-per-frame/P15_cereal_varjo_P15_cereal_2022-02-15_14-28-38-447.csv,1.1379310344827585,138.0,4.5999955533376315,-0.6525096525096525,99.0,3.2999968100030834
+101,varjo,cereal,P15,merged,/data/AMPs/second-round/avg-lum-per-frame/P15_cereal_varjo_P15_cereal_2_merged_varjo.csv,0.5249406175771971,217.0,7.2405666594261,-0.4051172707889126,178.0,5.9392666607274
+102,varjo,cereal,P3,full,/data/AMPs/second-round/avg-lum-per-frame/P3_cereal_varjo_P3_cereal_2022-02-10_10-38-06-418.csv,0.48344370860927155,341.0,11.36665567889951,-0.3215130023640662,300.0,9.999990333342677
+103,varjo,cereal,P3,merged,/data/AMPs/second-round/avg-lum-per-frame/P3_cereal_varjo_P3_cereal_2_merged_varjo.csv,0.3764044943820224,270.0,9.008999990990999,-0.5058548009367682,229.0,7.6409666590256995
+104,varjo,cereal,P6,full,/data/AMPs/second-round/avg-lum-per-frame/P6_cereal_varjo_P6_cereal_2022-02-10_15-06-06-750.csv,1.4308510638297873,279.0,9.29999101000869,-0.55,226.0,7.53332605111815
+105,varjo,cereal,P6,merged,/data/AMPs/second-round/avg-lum-per-frame/P6_cereal_varjo_P6_cereal_2_merged_varjo.csv,0.3310657596371882,269.0,8.9756333243577,-1.0,3246.0,108.3081998916918
+106,varjo,cereal,P10,full,/data/AMPs/second-round/avg-lum-per-frame/P10_cereal_varjo_P10_cereal_2022-01-31_13-58-57-031.csv,6.352941176470588,55.0,1.8333315611128242,-0.45270270270270274,3735.0,124.49987965011633
+107,varjo,cereal,P10,merged,/data/AMPs/second-round/avg-lum-per-frame/P10_cereal_varjo_P10_cereal_2_merged_varjo.csv,0.40222222222222226,190.0,6.3396666603269995,-1.0,4538.0,151.4179331819154
+108,varjo,sandwich,P22,full,/data/AMPs/second-round/avg-lum-per-frame/P22_sandwich_varjo_P22_sandwich_2022-02-08_13-53-20-596.csv,4.161764705882353,461.0,15.366651812236581,-0.7541371158392435,354.0,11.79998859334436
+109,varjo,sandwich,P22,merged,/data/AMPs/second-round/avg-lum-per-frame/P22_sandwich_varjo_P22_sandwich_2_merged.csv,0.31403118040089084,268.0,8.9422666577244,-0.3044619422572179,162.0,5.4053999945946
+110,varjo,sandwich,P16,full,/data/AMPs/second-round/avg-lum-per-frame/P16_sandwich_varjo_P16_sandwich_2022-02-02_10-32-11-583.csv,0.6860465116279071,136.0,4.533328951115347,-0.47608695652173916,90.0,2.9999971000028034
+111,varjo,sandwich,P16,merged,/data/AMPs/second-round/avg-lum-per-frame/P16_sandwich_varjo_P16_sandwich_2_merged__2022-02-02_10-32-11-583.csv,0.6642857142857144,149.0,4.971633328361699,-1.0,23219.0,774.7406325585927
+112,varjo,sandwich,P8,full,/data/AMPs/second-round/avg-lum-per-frame/P8_sandwich_varjo_P8_sandwich_2022-02-03_10-25-22-332.csv,inf,14188.0,472.93287616488635,-1.0,14178.0,472.5995431537749
+113,varjo,sandwich,P8,merged,/data/AMPs/second-round/avg-lum-per-frame/P8_sandwich_varjo_P8_sandwich_2_merged_2022-02-03_10-25-22-332.csv,0.6461187214611872,306.0,10.2101999897898,-1.0,19669.0,656.2889660103776
+114,varjo,sandwich,P4,full,/data/AMPs/second-round/avg-lum-per-frame/P4_sandwich_varjo_P4_sandwich_2022-02-14_10-02-25-490.csv,0.5837563451776651,481.0,16.033317834459424,-0.6120689655172413,424.0,14.133319671124317
+115,varjo,sandwich,P4,merged,/data/AMPs/second-round/avg-lum-per-frame/P4_sandwich_varjo_P4_sandwich_2_merged_varjo.csv,0.6231884057971016,239.0,7.9746333253587,-0.49783549783549785,237.0,7.9078999920921
+116,varjo,sandwich,P13,full,/data/AMPs/second-round/avg-lum-per-frame/P13_sandwich_varjo_P13_sandwich_2022-02-07_11-37-59-818.csv,0.7046979865771812,170.0,5.666661188894184,-0.6065573770491803,121.0,4.033329434448214
+117,varjo,sandwich,P13,merged,/data/AMPs/second-round/avg-lum-per-frame/P13_sandwich_varjo_P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.csv,0.4021978021978021,219.0,7.3072999926927,-1.0,14963.0,499.2654328340679
+118,varjo,sandwich,P23,full,/data/AMPs/second-round/avg-lum-per-frame/P23_sandwich_varjo_P23_sandwich_2022-02-11_14-05-06-946.csv,1.6527777777777777,305.0,10.166656838898389,-0.6076388888888888,256.0,8.533325084452418
+119,varjo,sandwich,P23,merged,/data/AMPs/second-round/avg-lum-per-frame/P23_sandwich_varjo_P23_sandwich_2_merged.csv,0.4014251781472684,254.0,8.4751333248582,-0.4480874316939891,206.0,6.8735333264598
+120,varjo,sandwich,P3,full,/data/AMPs/second-round/avg-lum-per-frame/P3_sandwich_varjo_P3_sandwich_2022-02-10_10-26-33-331.csv,0.43143812709030094,493.0,16.433317447793133,-0.34734917733089576,447.0,14.899985596680589
+121,varjo,sandwich,P3,merged,/data/AMPs/second-round/avg-lum-per-frame/P3_sandwich_varjo_P3_sandwich_2_merged_varjo.csv,0.29840142095914746,292.0,9.743066656923599,-0.46758349705304514,245.0,8.174833325158499
+122,varjo,sandwich,P2,full,/data/AMPs/second-round/avg-lum-per-frame/P2_sandwich_varjo_P2_sandwich_2022-02-04_14-01-31-064.csv,0.8555555555555556,377.0,12.56665451890063,-0.554585152838428,333.0,11.099989270010372
+123,varjo,sandwich,P2,merged,/data/AMPs/second-round/avg-lum-per-frame/P2_sandwich_varjo_P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.csv,0.989010989010989,310.0,10.343666656323,-0.6840277777777778,309.0,10.3102999896897
+124,varjo,sandwich,P19,full,/data/AMPs/second-round/avg-lum-per-frame/P19_sandwich_varjo_P19_sandwich_2022-02-11_10-57-49-168.csv,0.927710843373494,8985.0,299.49971048361317,-0.5043103448275862,292.0,9.73332392445354
+125,varjo,sandwich,P19,merged,/data/AMPs/second-round/avg-lum-per-frame/P19_sandwich_varjo_P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.csv,0.44491525423728806,262.0,8.7420666579246,-0.44171779141104295,170.0,5.672333327661
+126,varjo,sandwich,P25,full,/data/AMPs/second-round/avg-lum-per-frame/P25_sandwich_varjo_P25_sandwich_2022-02-09_10-59-14-215.csv,12.75,260.0,8.666658288896986,-0.9269746646795827,179.0,5.966660898894464
+127,varjo,sandwich,P25,merged,/data/AMPs/second-round/avg-lum-per-frame/P25_sandwich_varjo_P25_sandwich_2_merged_varjo.csv,0.4756335282651072,198.0,6.6065999933934,-0.610236220472441,117.0,3.9038999960961
+128,varjo,sandwich,P6,full,/data/AMPs/second-round/avg-lum-per-frame/P6_sandwich_varjo_P6_sandwich_2022-02-10_14-54-23-822.csv,0.7214765100671141,253.0,8.433325181118992,-0.5603112840466926,183.0,6.099994103339033
+129,varjo,sandwich,P6,merged,/data/AMPs/second-round/avg-lum-per-frame/P6_sandwich_varjo_P6_sandwich_2_merged_varjo.csv,0.49433106575963714,242.0,8.074733325258599,-0.4143222506393862,173.0,5.7724333275609
+130,varjo,sandwich,P18,full,/data/AMPs/second-round/avg-lum-per-frame/P18_sandwich_varjo_P18_sandwich_2022-02-15_10-30-21-311.csv,1.0463576158940397,253.0,8.433325181118992,-0.6006493506493507,150.0,4.999995166671338
+131,varjo,sandwich,P18,merged,/data/AMPs/second-round/avg-lum-per-frame/P18_sandwich_varjo_P18_sandwich_2_merged_varjo.csv,0.6395348837209303,277.0,9.2425666574241,-0.49715909090909094,175.0,5.8391666608275
+132,varjo,sandwich,P21,full,/data/AMPs/second-round/avg-lum-per-frame/P21_sandwich_varjo_P21_sandwich-1_2022-02-14_13-48-31-619.csv,inf,12967.0,432.23291550818163,-1.0,12958.0,431.9329157981814
+133,varjo,sandwich,P21,merged,/data/AMPs/second-round/avg-lum-per-frame/P21_sandwich_varjo_P21_sandwich_2_merged_varjo.csv,0.9634146341463414,219.0,7.3072999926927,-1.0,21764.0,726.1921326071412
+134,varjo,sandwich,P10,full,/data/AMPs/second-round/avg-lum-per-frame/P10_sandwich_varjo_P10_sandwich_2022-01-31_13-22-04-449.csv,inf,774.0,25.799975060024106,-1.0,770.0,25.666641855579538
+135,varjo,sandwich,P10,merged,/data/AMPs/second-round/avg-lum-per-frame/P10_sandwich_varjo_P10_sandwich_2_merged.csv,0.2718978102189782,63.0,2.1020999978979,-1.0,15025.0,501.3341661653325
+136,varjo,sandwich,P9,full,/data/AMPs/second-round/avg-lum-per-frame/P9_sandwich_varjo_P9_sandwich_2022-02-04_10-17-54-061.csv,1.9322033898305087,273.0,9.099991203341837,-0.655417406749556,163.0,5.433328081116188
+137,varjo,sandwich,P9,merged,/data/AMPs/second-round/avg-lum-per-frame/P9_sandwich_varjo_P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.csv,0.8453608247422681,178.0,5.9392666607274,-1.0,11475.0,382.8824996171175
+138,varjo,sandwich,P14,full,/data/AMPs/second-round/avg-lum-per-frame/P14_sandwich_varjo_P14_sandwich_2022-02-01_13-55-10-050.csv,1.6270270270270268,382.0,12.733321024456343,-0.5623762376237624,322.0,10.733322957787808
+139,varjo,sandwich,P14,merged,/data/AMPs/second-round/avg-lum-per-frame/P14_sandwich_varjo_P14_sandwich_2_merged.csv,0.6275862068965516,382.0,12.7460666539206,-1.0,14837.0,495.0612328382721
+140,varjo,sandwich,P24,full,/data/AMPs/second-round/avg-lum-per-frame/P24_sandwich_varjo_P24_sandwich_2022-02-16_09-54-31-530.csv,1.1255605381165918,493.0,16.433317447793133,-0.6208530805687205,417.0,13.89998656334632
+141,varjo,sandwich,P24,merged,/data/AMPs/second-round/avg-lum-per-frame/P24_sandwich_varjo_P24_sandwich_2_merged_varjo.csv,0.9216867469879517,364.0,12.145466654521199,-1.0,15532.0,518.2510661484156
+142,varjo,sandwich,P5,full,/data/AMPs/second-round/avg-lum-per-frame/P5_sandwich_varjo_P5_sandwich_2022-02-08_10-12-55-026.csv,5.296296296296297,177.0,5.89999429667218,-0.8585858585858586,84.0,2.7999972933359496
+143,varjo,sandwich,P5,merged,/data/AMPs/second-round/avg-lum-per-frame/P5_sandwich_varjo_P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.csv,0.7592592592592593,117.0,3.9038999960961,-1.0,10098.0,336.93659966306336

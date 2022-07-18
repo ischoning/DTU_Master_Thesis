@@ -1,0 +1,14 @@
+Updated 4 July 2022:
+Order to run the files in -
+
+# gather varjo data from server
+data_prep/gather_varjo_task_data
+
+# clean and process the data
+run_preprocess
+
+# run event detection on each dataset
+run_event_detect_full
+
+# run analysis
+run_analysis

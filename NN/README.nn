@@ -1,0 +1,19 @@
+Updated 4 July 2022:
+Order to run the files in -
+
+# format the error tags
+data_prep/parse_error_tags.py
+
+# determine offsets between the gaze data and gaze video, where errors were marked
+data_prep/Step1_find_time_of_min_max_roc_of_mean_luminance.ipynb
+
+# align the gaze data and gaze videos using the offsets
+data_prep/Step2_find_vid_offsets_roc_approach.ipynb
+
+# calculate the difference in duration between gaze data and gaze video
+data_prep/Step3_find_duration_diff_of_gaze_vid_and_data.ipynb
+
+# change parameters in Constants.py
+
+# train and test the model
+run_CNN_by_subject.ipynb

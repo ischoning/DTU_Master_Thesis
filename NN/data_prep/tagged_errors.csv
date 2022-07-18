@@ -1,0 +1,1228 @@
+,subID,task,Video,Track,Timestamp,Attribute,Value,Comment,HMD,offset,Timestamp_adjusted
+0,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,7.84,skill:score,"31:2, 6:2",,varjo,True,8.403196104585014
+1,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,11.84,skill:score,13:2,,varjo,True,12.403196104585014
+2,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,19.36,skill:score,"13:2, 31:2",,varjo,True,19.923196104585013
+3,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,25.0,skill:score,"6:2, 8: 2",,varjo,True,25.563196104585014
+4,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,32.36,skill:score,1:2,,varjo,True,32.92319610458501
+5,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,33.48,skill:score,3:2,,varjo,True,34.04319610458501
+6,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,39.12,skill:score,13:2,,varjo,True,39.68319610458501
+7,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,41.16,skill:score,8:2,,varjo,True,41.72319610458501
+8,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,43.04,skill:score,31:2,,varjo,True,43.60319610458501
+9,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,45.16,skill:score,3:2,,varjo,True,45.72319610458501
+10,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,53.24,skill:score,13:2,,varjo,True,53.80319610458501
+11,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,56.04,skill:score,13:2,,varjo,True,56.60319610458501
+12,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,57.04,skill:score,24:2,,varjo,True,57.60319610458501
+13,P5,cereal,P5_cereal_2_merged_varjo.mp4,error frame,59.44,skill:score,"31:2, 6:2",,varjo,True,60.00319610458501
+14,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,11.16,skill:score,23:2,,varjo,True,14.222125991211634
+15,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,22.84,skill:score,"31:2, 13:2",,varjo,True,25.902125991211634
+16,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,30.96,skill:score,"6:2, 13:2, 21:2",,varjo,True,34.02212599121164
+17,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,34.6,skill:score,"31:2, 13:2, 33:2",,varjo,True,37.66212599121164
+18,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,52.36,skill:score,26:2,,varjo,True,55.42212599121163
+19,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,58.24,skill:score,6:2,,varjo,True,61.30212599121164
+20,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,63.12,skill:score,"31:2, 21:2",,varjo,True,66.18212599121163
+21,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,66.16,skill:score,"6:2, 21:2",,varjo,True,69.22212599121163
+22,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,74.0,skill:score,3:2,,varjo,True,77.06212599121163
+23,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,86.48,skill:score,27:2,,varjo,True,89.54212599121163
+24,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,94.04,skill:score,3:2,,varjo,True,97.10212599121164
+25,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,123.76,skill:score,"31:2, 13:2",,varjo,True,126.82212599121164
+26,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,137.72,skill:score,"31:2, 13:2",,varjo,True,140.78212599121164
+27,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,140.32,skill:score,10:2,,varjo,True,143.38212599121164
+28,P24,cereal,P24_cereal_2_merged_varjo.mp4,error frame,145.2,skill:score,31:2,,varjo,True,148.26212599121163
+29,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,12.88,skill:score,"6:2, 27:2",,varjo,True,11.972660455124457
+30,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,14.84,skill:score,"31:2, 13:2",,varjo,True,13.932660455124456
+31,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,16.2,skill:score,"31:2, 13:2",,varjo,True,15.292660455124455
+32,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,20.88,skill:score,"31:2, 13:2, 21:2",,varjo,True,19.972660455124455
+33,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,23.52,skill:score,"27:2, 7:2",,varjo,True,22.612660455124455
+34,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,24.76,skill:score,"31:2, 13:2",,varjo,True,23.852660455124457
+35,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,28.24,skill:score,23:2,,varjo,True,27.332660455124454
+36,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,40.64,skill:score,"31:2, 13:2, 21:2",,varjo,True,39.73266045512446
+37,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,50.56,skill:score,"31:2, 13:2, 21:2",,varjo,True,49.65266045512446
+38,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,53.32,skill:score,3:2,,varjo,True,52.41266045512445
+39,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,56.08,skill:score,"31:2, 13:2",,varjo,True,55.17266045512446
+40,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,56.72,skill:score,"6:2, 13:2",,varjo,True,55.81266045512446
+41,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,59.32,skill:score,"3:2, 1:2",,varjo,True,58.41266045512445
+42,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,73.96,skill:score,"31:2, 13:2",,varjo,True,73.05266045512445
+43,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,83.2,skill:score,"6:2, 8:2",,varjo,True,82.29266045512446
+44,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,99.28,skill:score,"6:2, 13:2",,varjo,True,98.37266045512446
+45,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,102.32,skill:score,32:2,,varjo,True,101.41266045512445
+46,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,103.04,skill:score,7:2,,varjo,True,102.13266045512447
+47,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,103.88,skill:score,21:2,,varjo,True,102.97266045512445
+48,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,104.96,skill:score,33:2,,varjo,True,104.05266045512445
+49,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,107.24,skill:score,"31:2, 13:2",,varjo,True,106.33266045512445
+50,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,115.72,skill:score,"31:2, 13:2, 21:2",,varjo,True,114.81266045512446
+51,P2,cereal,P2_cereal_2_merged_varjo.mp4,error frame,116.88,skill:score,"31:2, 13:2",,varjo,True,115.97266045512445
+52,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,15.4,skill:score,"31:2, 10>2",,varjo,True,39.02727132828931
+53,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,16.48,skill:score,6:2,,varjo,True,40.107271328289315
+54,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,19.6,skill:score,7:2,,varjo,True,43.22727132828931
+55,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,21.76,skill:score,31:2,,varjo,True,45.387271328289316
+56,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,22.72,skill:score,"6:2, 13:2",,varjo,True,46.34727132828931
+57,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,24.92,skill:score,6:3,,varjo,True,48.54727132828931
+58,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,26.96,skill:score,16:2,,varjo,True,50.58727132828931
+59,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,35.48,skill:score,3:2,,varjo,True,59.10727132828931
+60,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,54.6,skill:score,"31:2, 33:2",,varjo,True,78.2272713282893
+61,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,60.32,skill:score,"31:2,",,varjo,True,83.9472713282893
+62,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,86.72,skill:score,"31:2,",,varjo,True,110.34727132828931
+63,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,89.72,skill:score,"31:2,",,varjo,True,113.34727132828931
+64,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,104.8,skill:score,6:3,,varjo,True,128.4272713282893
+65,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,107.48,skill:score,"3:2, 1:2",,varjo,True,131.1072713282893
+66,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,110.12,skill:score,"31:2, 21:2",,varjo,True,133.74727132828932
+67,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,126.2,skill:score,"10:2, 29:2",,varjo,True,149.82727132828933
+68,P21,cereal,P21_cereal_2_merged_varjo.mp4,error frame,145.12,skill:score,"31:2, 13:2",,varjo,True,168.74727132828932
+69,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,18.2,skill:score,"6:2, 8:2",,varjo,True,16.560996106787215
+70,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,19.32,skill:score,"6:2, 13:2, 3:2",,varjo,True,17.680996106787212
+71,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,22.4,skill:score,10:2,,varjo,True,20.76099610678721
+72,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,32.72,skill:score,3:2,,varjo,True,31.08099610678721
+73,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,45.36,skill:score,31:2,,varjo,True,43.72099610678721
+74,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,47.16,skill:score,33:2,,varjo,True,45.52099610678721
+75,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,53.36,skill:score,27:2,,varjo,True,51.72099610678721
+76,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,58.72,skill:score,"31:2, 13:2",,varjo,True,57.08099610678721
+77,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,91.2,skill:score,"6:2, 8:2",,varjo,True,89.56099610678721
+78,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,95.72,skill:score,27:2,,varjo,True,94.08099610678721
+79,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,105.12,skill:score,"31:2, 13:2",,varjo,True,103.48099610678722
+80,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,116.84,skill:score,33:2,,varjo,True,115.20099610678722
+81,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,131.8,skill:score,"6:2, 8:2",,varjo,True,130.16099610678722
+82,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,135.64,skill:score,"6:2, 8:2",,varjo,True,134.0009961067872
+83,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,144.16,skill:score,"31:2, 13:2, 16:2",,varjo,True,142.5209961067872
+84,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,148.24,skill:score,6:2,,varjo,True,146.60099610678722
+85,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,173.92,skill:score,29:2,,varjo,True,172.2809961067872
+86,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,175.24,skill:score,"31:2, 16:2, 13:2",,varjo,True,173.60099610678722
+87,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,176.84,skill:score,29:2,,varjo,True,175.20099610678722
+88,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,178.08,skill:score,29:2,,varjo,True,176.44099610678722
+89,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,188.0,skill:score,"24:2, 29:2",,varjo,True,186.3609961067872
+90,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,194.08,skill:score,27:2,,varjo,True,192.44099610678722
+91,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,195.52,skill:score,6:2,,varjo,True,193.88099610678722
+92,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,196.24,skill:score,"33:2, 10:2",,varjo,True,194.60099610678722
+93,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,198.96,skill:score,"1:2, 3:2",,varjo,True,197.32099610678722
+94,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,217.24,skill:score,24:2,,varjo,True,215.60099610678722
+95,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,219.92,skill:score,23:2,,varjo,True,218.2809961067872
+96,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,222.32,skill:score,"31:2, 13:2",,varjo,True,220.6809961067872
+97,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,222.76,skill:score,29:2,,varjo,True,221.1209961067872
+98,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,225.4,skill:score,10:2,,varjo,True,223.76099610678722
+99,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,235.44,skill:score,"31:2, 13:2",,varjo,True,233.8009961067872
+100,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,241.88,skill:score,10:2,,varjo,True,240.2409961067872
+101,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,248.24,skill:score,33:2,,varjo,True,246.60099610678722
+102,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,267.0,skill:score,"6:2, 8:2",,varjo,True,265.36099610678724
+103,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,268.56,skill:score,"3:2, 1:2",,varjo,True,266.92099610678724
+104,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,270.96,skill:score,3:2,,varjo,True,269.3209961067872
+105,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,278.84,skill:score,"6:2, 8:2",,varjo,True,277.2009961067872
+106,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,286.96,skill:score,"23:2, 24:2",,varjo,True,285.3209961067872
+107,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,289.92,skill:score,6:2,,varjo,True,288.28099610678726
+108,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,291.8,skill:score,3:2,,varjo,True,290.16099610678725
+109,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,294.92,skill:score,23:3,,varjo,True,293.28099610678726
+110,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,301.0,skill:score,23:2,,varjo,True,299.36099610678724
+111,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,307.8,skill:score,"31:2, 13:2, 16:2",,varjo,True,306.16099610678725
+112,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,311.24,skill:score,24:2,,varjo,True,309.60099610678725
+113,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,319.56,skill:score,6:2,,varjo,True,317.92099610678724
+114,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,334.4,skill:score,"29:2, 10:2",,varjo,True,332.7609961067872
+115,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,335.96,skill:score,"10:2, 24:2",,varjo,True,334.3209961067872
+116,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,336.96,skill:score,"31:2, 29:2, 13:2",,varjo,True,335.3209961067872
+117,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,339.52,skill:score,"24:2, 16:2",,varjo,True,337.8809961067872
+118,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,349.0,skill:score,"31:2, 13:2",,varjo,True,347.36099610678724
+119,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,351.72,skill:score,23:2,,varjo,True,350.08099610678727
+120,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,352.6,skill:score,16:2,,varjo,True,350.96099610678726
+121,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,355.04,skill:score,27:2,,varjo,True,353.40099610678726
+122,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,356.88,skill:score,27:2,,varjo,True,355.24099610678724
+123,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,360.32,skill:score,19:2,,varjo,True,358.68099610678723
+124,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,363.12,skill:score,31:2,,varjo,True,361.48099610678725
+125,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,364.64,skill:score,23:2,,varjo,True,363.0009961067872
+126,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,368.08,skill:score,31:2,,varjo,True,366.4409961067872
+127,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,368.72,skill:score,10:2,,varjo,True,367.08099610678727
+128,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,371.12,skill:score,"33:2, 10:2",,varjo,True,369.48099610678725
+129,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,381.56,skill:score,33:2,,varjo,True,379.92099610678724
+130,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,387.44,skill:score,"31:2, 16:2",,varjo,True,385.80099610678724
+131,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,389.88,skill:score,"31:2, 13:2, 19:2",,varjo,True,388.24099610678724
+132,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,391.36,skill:score,33:2,,varjo,True,389.72099610678725
+133,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,395.12,skill:score,29:2,,varjo,True,393.48099610678725
+134,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,395.32,skill:score,"29:2, 10:2",,varjo,True,393.68099610678723
+135,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,400.32,skill:score,"31:2, 13:2",,varjo,True,398.68099610678723
+136,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,401.32,skill:score,10:2,,varjo,True,399.68099610678723
+137,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,409.88,skill:score,"26:2, 3:2",,varjo,True,408.24099610678724
+138,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,412.76,skill:score,"33:2, 3:2",,varjo,True,411.12099610678723
+139,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,415.92,skill:score,"33:2, 3:2",,varjo,True,414.28099610678726
+140,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,422.64,skill:score,"31:2, 13:2",,varjo,True,421.0009961067872
+141,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,423.16,skill:score,10:2,,varjo,True,421.52099610678727
+142,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,433.68,skill:score,23:2,,varjo,True,432.04099610678725
+143,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,442.36,skill:score,27:2,,varjo,True,440.72099610678725
+144,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,445.12,skill:score,32:2,,varjo,True,443.48099610678725
+145,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,449.32,skill:score,"31:2, 13:2",,varjo,True,447.68099610678723
+146,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,450.64,skill:score,"31:2, 13:2",,varjo,True,449.0009961067872
+147,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,457.96,skill:score,3:2,,varjo,True,456.3209961067872
+148,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,460.2,skill:score,"3:2, 7:2",,varjo,True,458.56099610678723
+149,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,463.0,skill:score,10:2,,varjo,True,461.36099610678724
+150,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,471.4,skill:score,10:2,,varjo,True,469.7609961067872
+151,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,478.84,skill:score,32:2,,varjo,True,477.2009961067872
+152,P13,sandwich,P13_sandwich_2_merged_varjo_2022-02-07_11-37-59-818.mp4,error frame,481.36,skill:score,30:2,,varjo,True,479.72099610678725
+153,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,261.0,skill:score,3:2,,varjo,True,263.3954599689888
+154,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,271.56,skill:score,24:2,,varjo,True,273.9554599689888
+155,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,278.72,skill:score,8:2,,varjo,True,281.11545996898883
+156,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,286.92,skill:score,3:2,,varjo,True,289.3154599689888
+157,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,306.96,skill:score,24:2,,varjo,True,309.3554599689888
+158,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,312.48,skill:score,"8:2, 7:2",,varjo,True,314.8754599689888
+159,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,318.2,skill:score,6:2,,varjo,True,320.5954599689888
+160,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,326.12,skill:score,8:2,,varjo,True,328.5154599689888
+161,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,334.48,skill:score,24:2,,varjo,True,336.8754599689888
+162,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,338.56,skill:score,7:2,,varjo,True,340.9554599689888
+163,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,346.16,skill:score,"13:2, 8:2",,varjo,True,348.5554599689888
+164,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,349.12,skill:score,29:2,,varjo,True,351.5154599689888
+165,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,351.68,skill:score,24:2,,varjo,True,354.0754599689888
+166,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,353.12,skill:score,"8:2, 6:2",,varjo,True,355.5154599689888
+167,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,355.8,skill:score,13:2,,varjo,True,358.1954599689888
+168,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,359.12,skill:score,8:2,,varjo,True,361.5154599689888
+169,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,366.52,skill:score,"32:2,21:2, 8:2",,varjo,True,368.9154599689888
+170,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,385.2,skill:score,8:2,,varjo,True,387.5954599689888
+171,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,401.08,skill:score,"29:2,21:2",,varjo,True,403.4754599689888
+172,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,440.32,skill:score,6:2,,varjo,True,442.7154599689888
+173,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,522.88,skill:score,29:2,,varjo,True,525.2754599689888
+174,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,523.72,skill:score,3:2,,varjo,True,526.1154599689888
+175,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,525.52,skill:score,8:2,,varjo,True,527.9154599689888
+176,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,530.68,skill:score,"13:2,3:2",,varjo,True,533.0754599689888
+177,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,534.76,skill:score,"24:2, 23:2",,varjo,True,537.1554599689888
+178,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,558.6,skill:score,31:2,,varjo,True,560.9954599689888
+179,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,566.28,skill:score,26:2,,varjo,True,568.6754599689888
+180,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,572.6,skill:score,"16:3, 24:2",,varjo,True,574.9954599689888
+181,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,583.04,skill:score,"3:2, 13:2, 14:2, 21:2",,varjo,True,585.4354599689888
+182,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,591.64,skill:score,23:2,,varjo,True,594.0354599689888
+183,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,595.28,skill:score,13:2,,varjo,True,597.6754599689888
+184,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,595.72,skill:score,26:2,,varjo,True,598.1154599689888
+185,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,600.64,skill:score,"24.2, 21:2,29:2",,varjo,True,603.0354599689888
+186,P8,sandwich,P8_sandwich_2_merged_2022-02-03_10-25-22-332.mp4,error frame,611.64,skill:score,31:2,,varjo,True,614.0354599689888
+187,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,18.56,skill:score,"24:2, 27:2",,varjo,True,18.35489526844301
+188,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,26.72,skill:score,"24:2,",,varjo,True,26.514895268443013
+189,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,31.96,skill:score,"31:2, 13:2",,varjo,True,31.754895268443015
+190,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,40.48,skill:score,"3:2, 1:2",,varjo,True,40.27489526844301
+191,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,43.44,skill:score,"13:2, 21:2, 32:2",,varjo,True,43.23489526844301
+192,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,45.52,skill:score,26:2,,varjo,True,45.31489526844302
+193,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,52.32,skill:score,33:2,,varjo,True,52.114895268443014
+194,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,60.76,skill:score,32:2,,varjo,True,60.55489526844301
+195,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,63.12,skill:score,"31:2, 13:2",,varjo,True,62.91489526844301
+196,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,69.56,skill:score,24:2,,varjo,True,69.35489526844302
+197,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,77.12,skill:score,24:2,,varjo,True,76.91489526844302
+198,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,90.56,skill:score,30:2,,varjo,True,90.35489526844302
+199,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,162.12,skill:score,26:2,,varjo,True,161.91489526844302
+200,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,174.88,skill:score,32:2,,varjo,True,174.674895268443
+201,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,175.2,skill:score,"6:2, 8:2",,varjo,True,174.994895268443
+202,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,190.6,skill:score,3:2,,varjo,True,190.394895268443
+203,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,194.28,skill:score,31:2,,varjo,True,194.07489526844302
+204,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,195.6,skill:score,"6:2, 8:2",,varjo,True,195.394895268443
+205,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,196.6,skill:score,"6:2, 8:2",,varjo,True,196.394895268443
+206,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,210.08,skill:score,"13:2, 32:2",,varjo,True,209.87489526844303
+207,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,225.92,skill:score,33:2,,varjo,True,225.714895268443
+208,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,227.28,skill:score,"13:2, 31:2, 33:2",,varjo,True,227.07489526844302
+209,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,234.52,skill:score,27:2,,varjo,True,234.31489526844302
+210,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,235.56,skill:score,33:2,,varjo,True,235.35489526844302
+211,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,258.48,skill:score,29:2,,varjo,True,258.274895268443
+212,P25,cereal,P25_cereal_2_merged_varjo.mp4,error frame,262.16,skill:score,24:2,,varjo,True,261.954895268443
+213,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,14.92,skill:score,"6:2, 21:2",,varjo,True,21.145419679032216
+214,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,15.56,skill:score,10:2,,varjo,True,21.785419679032216
+215,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,22.32,skill:score,3:2,,varjo,True,28.545419679032214
+216,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,32.32,skill:score,"29:2, 10:2",,varjo,True,38.545419679032214
+217,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,33.36,skill:score,"3:2, 13:2",,varjo,True,39.58541967903221
+218,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,49.88,skill:score,"6:2, 8:2, 21:2",,varjo,True,56.10541967903222
+219,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,51.16,skill:score,33:2,,varjo,True,57.38541967903221
+220,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,55.76,skill:score,"6:2, 21:2",,varjo,True,61.98541967903221
+221,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,60.36,skill:score,32:2,,varjo,True,66.58541967903221
+222,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,72.72,skill:score,"6:2, 8:2",,varjo,True,78.94541967903221
+223,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,105.16,skill:score,"10:2, 29:2",,varjo,True,111.38541967903221
+224,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,113.64,skill:score,"10:2, 29:2",,varjo,True,119.86541967903221
+225,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,114.8,skill:score,3:2,,varjo,True,121.02541967903221
+226,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,117.12,skill:score,"6:2, 21:2, 13:2",,varjo,True,123.34541967903222
+227,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,122.16,skill:score,"6:2, 8:2, 21:2,",,varjo,True,128.38541967903222
+228,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,125.48,skill:score,"10:2, 29:2, 3:2",,varjo,True,131.70541967903222
+229,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,126.6,skill:score,24:2,,varjo,True,132.82541967903222
+230,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,128.64,skill:score,"29:2, 10:2",,varjo,True,134.86541967903221
+231,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,131.88,skill:score,32:2,,varjo,True,138.10541967903222
+232,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,134.36,skill:score,"6:2, 13:2",,varjo,True,140.58541967903224
+233,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,138.28,skill:score,"31:2, 13:2",,varjo,True,144.50541967903223
+234,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,138.8,skill:score,10:2,,varjo,True,145.02541967903224
+235,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,146.04,skill:score,"23:2, 16:2",,varjo,True,152.26541967903222
+236,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,147.2,skill:score,23:2,,varjo,True,153.42541967903222
+237,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,147.56,skill:score,6:3,,varjo,True,153.78541967903223
+238,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,149.6,skill:score,"31:2, 13:2",,varjo,True,155.82541967903222
+239,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,156.04,skill:score,"31:2, 13:2, 7:3",,varjo,True,162.26541967903222
+240,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,157.48,skill:score,"31:2, 13:2,",,varjo,True,163.70541967903222
+241,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,164.52,skill:score,"31:2, 13:2,10:2",,varjo,True,170.74541967903224
+242,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,166.16,skill:score,"31:2, 13:2, 21:2",,varjo,True,172.38541967903222
+243,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,167.6,skill:score,"31:2, 13:2, 10:2",,varjo,True,173.82541967903222
+244,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,173.92,skill:score,"6:2, 8:2",,varjo,True,180.14541967903222
+245,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,186.92,skill:score,"6:2, 13:2",,varjo,True,193.14541967903222
+246,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,195.32,skill:score,"31:2, 21:2",,varjo,True,201.54541967903222
+247,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,196.84,skill:score,"6:2, 21:2, 13:2",,varjo,True,203.06541967903223
+248,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,230.44,skill:score,"31:2, 10:2",,varjo,True,236.66541967903223
+249,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,232.88,skill:score,13:2,,varjo,True,239.10541967903222
+250,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,237.16,skill:score,"6:2, 13:2",,varjo,True,243.38541967903222
+251,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,270.28,skill:score,9:2,,varjo,True,276.5054196790322
+252,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,278.96,skill:score,"6:2, 13:2",,varjo,True,285.1854196790322
+253,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,295.12,skill:score,"31:2, 13:2",,varjo,True,301.3454196790322
+254,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,311.04,skill:score,"6:2, 21:2",,varjo,True,317.2654196790322
+255,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,313.48,skill:score,1:2,,varjo,True,319.7054196790322
+256,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,313.84,skill:score,"26:2, 3:2",,varjo,True,320.0654196790322
+257,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,316.0,skill:score,"31:2, 13:2",,varjo,True,322.2254196790322
+258,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,324.04,skill:score,21:2,,varjo,True,330.2654196790322
+259,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,331.24,skill:score,29:2,,varjo,True,337.4654196790322
+260,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,340.24,skill:score,16:2,,varjo,True,346.4654196790322
+261,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,341.0,skill:score,1:2,,varjo,True,347.2254196790322
+262,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,354.24,skill:score,"31:2, 13:2",,varjo,True,360.4654196790322
+263,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,356.84,skill:score,23:2,,varjo,True,363.0654196790322
+264,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,361.2,skill:score,16:2,,varjo,True,367.4254196790322
+265,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,366.0,skill:score,16:2,,varjo,True,372.2254196790322
+266,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,367.08,skill:score,3:2,,varjo,True,373.3054196790322
+267,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,370.88,skill:score,1:2,,varjo,True,377.1054196790322
+268,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,378.04,skill:score,24:2,,varjo,True,384.2654196790322
+269,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,393.28,skill:score,10:3,,varjo,True,399.5054196790322
+270,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,395.28,skill:score,"31:2, 1:2, 3:2",,varjo,True,401.5054196790322
+271,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,401.32,skill:score,"31:2, 13:2, 21:2",,varjo,True,407.5454196790322
+272,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,402.04,skill:score,21:2,,varjo,True,408.2654196790322
+273,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,402.68,skill:score,24:2,,varjo,True,408.9054196790322
+274,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,405.12,skill:score,"21:2, 13:2, 31:2",,varjo,True,411.3454196790322
+275,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,405.76,skill:score,"10:2, 21:2",,varjo,True,411.9854196790322
+276,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,406.96,skill:score,"6:2, 31:2",,varjo,True,413.1854196790322
+277,P4,sandwich,P4_sandwich_2_merged_varjo.mp4,error frame,420.52,skill:score,22:4,,varjo,True,426.7454196790322
+278,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,13.92,skill:score,"10:3,3:3",,varjo,True,14.247560775778133
+279,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,22.8,skill:score,23:2,,varjo,True,23.127560775778136
+280,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,36.36,skill:score,18:2,,varjo,True,36.68756077577813
+281,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,41.04,skill:score,23:2,,varjo,True,41.36756077577813
+282,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,49.8,skill:score,31:2,,varjo,True,50.12756077577813
+283,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,51.72,skill:score,"13.2, 31:2",,varjo,True,52.04756077577813
+284,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,55.68,skill:score,27:2,,varjo,True,56.00756077577813
+285,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,57.96,skill:score,23:2,,varjo,True,58.28756077577813
+286,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,59.96,skill:score,"21:2, 7:2, 6:2",,varjo,True,60.28756077577813
+287,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,63.8,skill:score,31:2,,varjo,True,64.12756077577814
+288,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,75.88,skill:score,21:2,,varjo,True,76.20756077577813
+289,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,80.08,skill:score,7:2,,varjo,True,80.40756077577814
+290,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,85.08,skill:score,6:2,,varjo,True,85.40756077577814
+291,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,86.72,skill:score,"6:2, 31:2",,varjo,True,87.04756077577814
+292,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,88.12,skill:score,7:2,,varjo,True,88.44756077577814
+293,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,102.36,skill:score,"31:2, 20:2",,varjo,True,102.68756077577814
+294,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,113.8,skill:score,24:2,,varjo,True,114.12756077577814
+295,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,125.0,skill:score,29:2,,varjo,True,125.32756077577814
+296,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,131.64,skill:score,8:2,,varjo,True,131.9675607757781
+297,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,157.2,skill:score,"8:2, 7:2",,varjo,True,157.5275607757781
+298,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,163.28,skill:score,33:2,,varjo,True,163.60756077577813
+299,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,167.12,skill:score,29:2,,varjo,True,167.44756077577813
+300,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,169.12,skill:score,23:2,,varjo,True,169.44756077577813
+301,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,175.24,skill:score,"28:2, 29:2, 33:2",,varjo,True,175.56756077577813
+302,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,187.0,skill:score,"29:2, 28:2",,varjo,True,187.32756077577812
+303,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,192.68,skill:score,8:2,,varjo,True,193.00756077577813
+304,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,213.32,skill:score,"7:2, 21:2",,varjo,True,213.64756077577812
+305,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,222.2,skill:score,"26:2,13:2",,varjo,True,222.5275607757781
+306,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,231.56,skill:score,29:2,,varjo,True,231.88756077577813
+307,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,242.24,skill:score,26:2,,varjo,True,242.56756077577813
+308,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,258.92,skill:score,"8:2, 7:2",,varjo,True,259.24756077577814
+309,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,270.64,skill:score,"31:2, 13:2",,varjo,True,270.9675607757781
+310,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,277.68,skill:score,24:2,,varjo,True,278.00756077577813
+311,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,284.56,skill:score,8:2,,varjo,True,284.8875607757781
+312,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,290.36,skill:score,24.2,,varjo,True,290.68756077577814
+313,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,304.52,skill:score,"33:2,21:2",,varjo,True,304.8475607757781
+314,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,308.8,skill:score,26:2,,varjo,True,309.12756077577814
+315,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,312.24,skill:score,8:2,,varjo,True,312.56756077577813
+316,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,315.48,skill:score,"8:2, 21:2",,varjo,True,315.80756077577814
+317,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,318.28,skill:score,8:2,,varjo,True,318.6075607757781
+318,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,326.32,skill:score,13:2,,varjo,True,326.6475607757781
+319,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,338.0,skill:score,33:2,,varjo,True,338.3275607757781
+320,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,338.56,skill:score,24:2,,varjo,True,338.8875607757781
+321,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,341.08,skill:score,29:2,,varjo,True,341.4075607757781
+322,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,342.2,skill:score,"31:2, 25:2",,varjo,True,342.5275607757781
+323,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,358.24,skill:score,21:2,,varjo,True,358.56756077577813
+324,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,361.88,skill:score,24:2,,varjo,True,362.2075607757781
+325,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,369.48,skill:score,3:2,,varjo,True,369.80756077577814
+326,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,417.92,skill:score,29:2,,varjo,True,418.24756077577814
+327,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,421.92,skill:score,22:2,,varjo,True,422.24756077577814
+328,P6,sandwich,P6_sandwich_2_merged_varjo.mp4,error frame,436.16,skill:score,"30:1, 18:2",,varjo,True,436.48756077577815
+329,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,15.96,skill:score,31:2,,varjo,True,15.487428087022089
+330,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,29.44,skill:score,"1:2, 3:2",,varjo,True,28.96742808702209
+331,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,33.72,skill:score,20:2,,varjo,True,33.24742808702209
+332,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,37.28,skill:score,23:2,,varjo,True,36.80742808702209
+333,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,39.56,skill:score,27:2,,varjo,True,39.08742808702209
+334,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,42.28,skill:score,27:2,,varjo,True,41.80742808702209
+335,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,43.32,skill:score,31:2,,varjo,True,42.84742808702209
+336,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,54.36,skill:score,33:2,,varjo,True,53.88742808702209
+337,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,64.72,skill:score,33:2,,varjo,True,64.24742808702209
+338,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,69.12,skill:score,"6:2, 31:2",,varjo,True,68.64742808702209
+339,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,70.44,skill:score,8:2,,varjo,True,69.96742808702209
+340,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,95.36,skill:score,"10:2,29:2",,varjo,True,94.88742808702209
+341,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,109.04,skill:score,24:2,,varjo,True,108.5674280870221
+342,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,111.88,skill:score,8:2,,varjo,True,111.40742808702208
+343,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,119.84,skill:score,"21:2, 28:2",,varjo,True,119.36742808702209
+344,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,133.04,skill:score,8:2,,varjo,True,132.56742808702208
+345,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,150.96,skill:score,"24:2, 25:2",,varjo,True,150.4874280870221
+346,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,155.88,skill:score,8:2,,varjo,True,155.40742808702208
+347,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,178.04,skill:score,"8:2, 21:2",,varjo,True,177.56742808702208
+348,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,194.88,skill:score,1:2,,varjo,True,194.40742808702208
+349,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,197.36,skill:score,3:2,,varjo,True,196.8874280870221
+350,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,201.6,skill:score,23:2,,varjo,True,201.12742808702208
+351,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,206.04,skill:score,24:2,,varjo,True,205.56742808702208
+352,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,207.28,skill:score,10:2,,varjo,True,206.8074280870221
+353,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,213.96,skill:score,"24:2, 33:2",,varjo,True,213.4874280870221
+354,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,219.6,skill:score,"7:2, 8:2",,varjo,True,219.12742808702208
+355,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,234.44,skill:score,26:2,,varjo,True,233.96742808702209
+356,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,257.16,skill:score,23:2,,varjo,True,256.6874280870221
+357,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,277.76,skill:score,"29:2, 31:2, 8:2",,varjo,True,277.2874280870221
+358,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,320.24,skill:score,1:2,,varjo,True,319.7674280870221
+359,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,324.0,skill:score,1:2,,varjo,True,323.5274280870221
+360,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,325.6,skill:score,3:2,,varjo,True,325.1274280870221
+361,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,332.6,skill:score,24:2,,varjo,True,332.1274280870221
+362,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,337.08,skill:score,1:2,,varjo,True,336.6074280870221
+363,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,357.0,skill:score,13:2,,varjo,True,356.5274280870221
+364,P9,sandwich,P9_sandwich_2_merged_varjo_2022-02-04_10-17-54-061.mp4,error frame,372.92,skill:score,13:2,,varjo,True,372.4474280870221
+365,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,18.6,skill:score,"31:2, 13:2",,varjo,True,19.394093529245495
+366,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,19.88,skill:score,"1:2, 3:2",,varjo,True,20.674093529245493
+367,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,20.28,skill:score,6:3,,varjo,True,21.074093529245495
+368,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,22.48,skill:score,6:2,,varjo,True,23.274093529245494
+369,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,32.0,skill:score,3:2,,varjo,True,32.794093529245494
+370,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,42.28,skill:score,"6:2, 8:2",,varjo,True,43.074093529245495
+371,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,53.8,skill:score,23:2,,varjo,True,54.59409352924549
+372,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,58.8,skill:score,7:2,,varjo,True,59.59409352924549
+373,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,60.28,skill:score,31:2,,varjo,True,61.074093529245495
+374,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,66.28,skill:score,"31:2, 13:2",,varjo,True,67.07409352924549
+375,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,70.28,skill:score,"31:2, 13:2",,varjo,True,71.07409352924549
+376,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,71.28,skill:score,"1:2, 23:2",,varjo,True,72.07409352924549
+377,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,76.48,skill:score,"6:2, 13:2",,varjo,True,77.2740935292455
+378,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,97.32,skill:score,"3:2, 1:2",,varjo,True,98.11409352924548
+379,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,107.96,skill:score,"6:2,",,varjo,True,108.7540935292455
+380,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,111.08,skill:score,"3:2, 1:2",,varjo,True,111.8740935292455
+381,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,113.04,skill:score,24:2,,varjo,True,113.83409352924551
+382,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,121.08,skill:score,26:2,,varjo,True,121.8740935292455
+383,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,125.16,skill:score,"31:2, 13:2",,varjo,True,125.95409352924548
+384,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,157.08,skill:score,"31:2,",,varjo,True,157.8740935292455
+385,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,164.68,skill:score,"31:2,13:2",,varjo,True,165.4740935292455
+386,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,181.0,skill:score,"31:2,13:2",,varjo,True,181.7940935292455
+387,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,181.6,skill:score,10:2,,varjo,True,182.39409352924548
+388,P23,cereal,P23_cereal_2_merged_varjo.mp4,error frame,182.64,skill:score,"13:2, 31:2",,varjo,True,183.43409352924547
+389,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,14.84,skill:score,"31:2, 13:2",,varjo,True,14.73369401297876
+390,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,17.84,skill:score,"1:2, 6:2, 31:2",,varjo,True,17.73369401297876
+391,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,26.12,skill:score,23:2,,varjo,True,26.01369401297876
+392,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,34.76,skill:score,29:2,,varjo,True,34.65369401297876
+393,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,39.56,skill:score,24:2,,varjo,True,39.453694012978765
+394,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,42.56,skill:score,"8:2, 21:2",,varjo,True,42.453694012978765
+395,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,46.52,skill:score,23:2,,varjo,True,46.413694012978766
+396,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,48.24,skill:score,24:2,,varjo,True,48.133694012978765
+397,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,58.6,skill:score,6:2,,varjo,True,58.493694012978764
+398,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,76.56,skill:score,6:2,,varjo,True,76.45369401297876
+399,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,83.32,skill:score,8:2,,varjo,True,83.21369401297875
+400,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,92.52,skill:score,3:2,,varjo,True,92.41369401297875
+401,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,97.36,skill:score,8:2,,varjo,True,97.25369401297876
+402,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,111.8,skill:score,13:2,,varjo,True,111.69369401297875
+403,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,113.0,skill:score,24:2,,varjo,True,112.89369401297876
+404,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,122.44,skill:score,23:2,,varjo,True,122.33369401297875
+405,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,123.16,skill:score,"13:2, 31:2",,varjo,True,123.05369401297875
+406,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,130.96,skill:score,"6:2, 31:2",,varjo,True,130.85369401297876
+407,P4,cereal,P4_cereal_2_merged_varjo.mp4,error frame,134.36,skill:score,"6:2, 21:2, 31:2",,varjo,True,134.25369401297877
+408,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,16.0,skill:score,"31:2, 13:2, 21:1",,varjo,True,19.592622739606504
+409,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,22.08,skill:score,"31:2, 13:2, 10:2",,varjo,True,25.672622739606503
+410,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,23.48,skill:score,"6:2, 13:2",,varjo,True,27.0726227396065
+411,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,31.8,skill:score,"31:2, 13:2, 10:2",,varjo,True,35.3926227396065
+412,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,46.88,skill:score,29:2,,varjo,True,50.47262273960651
+413,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,48.4,skill:score,29:2,,varjo,True,51.9926227396065
+414,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,50.24,skill:score,10:2,,varjo,True,53.83262273960651
+415,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,51.04,skill:score,"31:2, 13:2, 21:2",,varjo,True,54.632622739606504
+416,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,51.8,skill:score,"1:2, 3:2",,varjo,True,55.3926227396065
+417,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,55.48,skill:score,"10:2,",,varjo,True,59.0726227396065
+418,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,64.88,skill:score,3:2,,varjo,True,68.47262273960649
+419,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,71.24,skill:score,"6:2, 8:2",,varjo,True,74.83262273960649
+420,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,75.68,skill:score,6:3,,varjo,True,79.2726227396065
+421,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,79.32,skill:score,"6:2, 21:2, 13:2",,varjo,True,82.91262273960649
+422,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,83.32,skill:score,3:2,,varjo,True,86.91262273960649
+423,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,95.68,skill:score,"31:2, 21:2",,varjo,True,99.2726227396065
+424,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,106.48,skill:score,"31:2, 29:2",,varjo,True,110.0726227396065
+425,P18,cereal,P18_cereal_2_merged_varjo.mp4,error frame,128.2,skill:score,"31:2, 13:2",,varjo,True,131.7926227396065
+459,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,17.88,skill:score,"6:1, 21:2",,varjo,True,17.040828505843837
+460,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,20.28,skill:score,33:2,,varjo,True,19.44082850584384
+461,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,32.68,skill:score,10:2,,varjo,True,31.840828505843838
+462,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,35.44,skill:score,,,varjo,True,34.600828505843836
+463,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,35.68,skill:score,10:2,,varjo,True,34.84082850584384
+464,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,42.48,skill:score,27:2,,varjo,True,41.640828505843835
+465,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,43.48,skill:score,33:2,,varjo,True,42.640828505843835
+466,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,46.04,skill:score,"31:2, 13:2",,varjo,True,45.20082850584384
+467,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,54.56,skill:score,"31:2, 13:2",,varjo,True,53.72082850584384
+468,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,56.2,skill:score,"31:2, 13:2, 10:2",,varjo,True,55.36082850584384
+469,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,57.68,skill:score,"29:2, 10:2",,varjo,True,56.84082850584384
+470,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,64.0,skill:score,"3:2, 6:2, 21:2",,varjo,True,63.16082850584384
+471,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,65.88,skill:score,33:2,,varjo,True,65.04082850584383
+472,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,67.24,skill:score,21:2,,varjo,True,66.40082850584383
+473,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,88.68,skill:score,"31:2, 13:2",,varjo,True,87.84082850584385
+474,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,117.52,skill:score,"6:2, 21:2, 13:2",,varjo,True,116.68082850584383
+475,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,119.48,skill:score,"29:2, 10:2",,varjo,True,118.64082850584384
+476,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,124.36,skill:score,"6:2, 21:2",,varjo,True,123.52082850584384
+477,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,127.68,skill:score,29:2,,varjo,True,126.84082850584385
+478,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,132.4,skill:score,"29:2, 24:2",,varjo,True,131.56082850584386
+479,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,133.32,skill:score,"29:2, 24:2",,varjo,True,132.48082850584382
+480,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,135.04,skill:score,29:2,,varjo,True,134.20082850584384
+481,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,139.04,skill:score,"31:2, 13:2",,varjo,True,138.20082850584384
+482,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,140.84,skill:score,3:2,,varjo,True,140.00082850584386
+483,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,141.6,skill:score,"6:2, 21:2",,varjo,True,140.76082850584385
+484,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,145.08,skill:score,"21:2, 6:2, 3:2",,varjo,True,144.24082850584387
+485,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,154.92,skill:score,"3:2, 1:2",,varjo,True,154.08082850584384
+486,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,174.68,skill:score,31:2,,varjo,True,173.84082850584383
+487,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,179.68,skill:score,29:2,,varjo,True,178.84082850584383
+488,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,181.04,skill:score,"31:2, 21:2",,varjo,True,180.20082850584384
+489,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,184.92,skill:score,"29:2, 24:2",,varjo,True,184.08082850584384
+490,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,186.6,skill:score,29:2,,varjo,True,185.76082850584385
+491,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,193.44,skill:score,"6:2, 8:2, 21:2",,varjo,True,192.60082850584382
+492,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,200.68,skill:score,"6:2, 8:2, 21:2, 13:2",,varjo,True,199.84082850584383
+493,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,203.68,skill:score,"6:2, 8:2, 21:2, 3:2",,varjo,True,202.84082850584383
+494,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,209.0,skill:score,33:2,,varjo,True,208.16082850584382
+495,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,210.8,skill:score,3:2,,varjo,True,209.96082850584384
+496,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,212.32,skill:score,"3:2, 1:2",,varjo,True,211.48082850584382
+497,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,215.52,skill:score,"3:2, 1:2, 33:2",,varjo,True,214.68082850584386
+498,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,218.56,skill:score,23:2,,varjo,True,217.72082850584383
+499,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,243.44,skill:score,"23:2, 24:2",,varjo,True,242.60082850584382
+500,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,255.56,skill:score,"8:2, 6:2, 21:2",,varjo,True,254.72082850584383
+501,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,260.44,skill:score,"8:2, 6:2, 21:2",,varjo,True,259.6008285058438
+502,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,264.84,skill:score,29:2,,varjo,True,264.0008285058438
+503,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,267.64,skill:score,"10:2, 29:2, 3:2",,varjo,True,266.8008285058438
+504,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,268.44,skill:score,3:2,,varjo,True,267.6008285058438
+505,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,268.88,skill:score,"31:2, 13:2",,varjo,True,268.0408285058438
+506,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,274.16,skill:score,3:2,,varjo,True,273.32082850584385
+507,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,275.28,skill:score,"3:2, 1:2",,varjo,True,274.4408285058438
+508,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,278.92,skill:score,"31:2, 13:2, 21:2",,varjo,True,278.08082850584384
+509,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,281.48,skill:score,"31:2, 13:2, 21:2",,varjo,True,280.64082850584384
+510,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,284.04,skill:score,"6:2, 8:2",,varjo,True,283.20082850584384
+511,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,299.8,skill:score,"16:2, 23:2",,varjo,True,298.96082850584384
+512,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,304.24,skill:score,"31:2, 13:2",,varjo,True,303.40082850584383
+513,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,305.56,skill:score,"6:2, 8:2",,varjo,True,304.7208285058438
+514,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,307.8,skill:score,33:2,,varjo,True,306.96082850584384
+515,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,329.28,skill:score,"21:2, 31:2",,varjo,True,328.4408285058438
+516,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,332.72,skill:score,"24:2, 23:2",,varjo,True,331.88082850584385
+517,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,335.12,skill:score,"24:2, 23:2",,varjo,True,334.28082850584383
+518,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,336.8,skill:score,"33:2, 32:2",,varjo,True,335.96082850584384
+519,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,348.28,skill:score,"31:2, 13:2",,varjo,True,347.4408285058438
+520,P18,sandwich,P18_sandwich_2_merged_varjo.mp4,error frame,351.24,skill:score,"31:2, 21:2, 13:2",,varjo,True,350.40082850584383
+521,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,10.08,skill:score,"31:2, 13:2",,varjo,True,13.043827729508253
+522,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,11.68,skill:score,"31:2, 13:2",,varjo,True,14.643827729508253
+523,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,14.4,skill:score,23:2,,varjo,True,17.36382772950825
+524,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,18.6,skill:score,"31:2, 13:2",,varjo,True,21.563827729508255
+525,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,29.68,skill:score,16:2,,varjo,True,32.64382772950825
+526,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,48.52,skill:score,6:3,,varjo,True,51.483827729508256
+527,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,52.6,skill:score,"31:2, 13:2",,varjo,True,55.563827729508255
+528,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,54.6,skill:score,"6:2, 8:2",,varjo,True,57.563827729508255
+529,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,63.76,skill:score,"23:2, 27:2",,varjo,True,66.72382772950824
+530,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,64.24,skill:score,"31:2, 21:2, 13:2",,varjo,True,67.20382772950825
+531,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,67.08,skill:score,"31:2, 13:2",,varjo,True,70.04382772950825
+532,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,78.88,skill:score,"6:2, 8:2",,varjo,True,81.84382772950825
+533,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,82.24,skill:score,3:2,,varjo,True,85.20382772950825
+534,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,96.08,skill:score,6:2,,varjo,True,99.04382772950825
+535,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,99.88,skill:score,6:2,,varjo,True,102.84382772950825
+536,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,103.32,skill:score,31:2,,varjo,True,106.28382772950825
+537,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,105.2,skill:score,"31:2, 29:2",,varjo,True,108.16382772950826
+538,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,127.48,skill:score,"31:2,",,varjo,True,130.44382772950826
+539,P19,cereal,P19_cereal_2_merged_varjo.mp4,error frame,129.76,skill:score,"31:2,",,varjo,True,132.72382772950823
+540,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,22.88,skill:score,31:2,,varjo,True,24.70125324209172
+541,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,34.6,skill:score,23: 2,,varjo,True,36.42125324209172
+542,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,37.28,skill:score,27:2,,varjo,True,39.10125324209172
+543,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,48.4,skill:score,29:2,,varjo,True,50.22125324209172
+544,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,55.2,skill:score,23:2,,varjo,True,57.021253242091724
+545,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,78.76,skill:score,3:2,,varjo,True,80.58125324209172
+546,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,82.16,skill:score,"31:2, 6:2",,varjo,True,83.98125324209173
+547,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,100.2,skill:score,29:2,,varjo,True,102.02125324209172
+548,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,102.36,skill:score,23.2,,varjo,True,104.18125324209171
+549,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,117.56,skill:score,6:2,,varjo,True,119.38125324209173
+550,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,124.12,skill:score,13:2,,varjo,True,125.94125324209173
+551,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,129.56,skill:score,"13:2, 32:2, 33:2",,varjo,True,131.38125324209173
+552,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,158.72,skill:score,26:2,,varjo,True,160.54125324209173
+553,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,163.48,skill:score,24:2,,varjo,True,165.30125324209172
+554,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,174.8,skill:score,31:2,,varjo,True,176.62125324209174
+555,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,190.2,skill:score,27:2,,varjo,True,192.02125324209172
+556,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,196.72,skill:score,6:2,,varjo,True,198.54125324209173
+557,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,201.92,skill:score,,,varjo,True,203.74125324209172
+558,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,202.8,skill:score,6:2,,varjo,True,204.62125324209174
+559,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,229.44,skill:score,23:2,,varjo,True,231.26125324209173
+560,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,239.92,skill:score,24:2,,varjo,True,241.74125324209172
+561,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,253.2,skill:score,24:2,,varjo,True,255.02125324209172
+562,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,274.0,skill:score,8:2,,varjo,True,275.8212532420917
+563,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,281.84,skill:score,"24:2, 29:2",,varjo,True,283.6612532420917
+564,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,293.44,skill:score,8:2,,varjo,True,295.2612532420917
+565,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,304.68,skill:score,32:2,,varjo,True,306.5012532420917
+566,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,318.96,skill:score,"24:2, 25:3",,varjo,True,320.7812532420917
+567,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,326.36,skill:score,3:2,,varjo,True,328.1812532420917
+568,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,348.32,skill:score,8:2,,varjo,True,350.1412532420917
+569,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,386.84,skill:score,8:2,,varjo,True,388.6612532420917
+570,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,422.72,skill:score,32:2,,varjo,True,424.5412532420917
+571,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,427.52,skill:score,13:2,,varjo,True,429.3412532420917
+572,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,439.68,skill:score,6:2,,varjo,True,441.5012532420917
+573,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,443.92,skill:score,23:2,,varjo,True,445.7412532420917
+574,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,446.88,skill:score,13:2,,varjo,True,448.7012532420917
+575,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,462.32,skill:score,"24:2, 8:2",,varjo,True,464.1412532420917
+576,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,466.36,skill:score,3:2,,varjo,True,468.1812532420917
+577,P24,sandwich,P24_sandwich_2_merged_varjo.mp4,error frame,500.84,skill:score,10:2,,varjo,True,502.6612532420917
+578,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,20.28,skill:score,26:2,,varjo,True,19.20946396387315
+579,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,25.72,skill:score,"31:2, 13:2",,varjo,True,24.64946396387315
+580,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,29.4,skill:score,"6:2, 21:2, 13:2, 3:2",,varjo,True,28.32946396387315
+581,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,37.64,skill:score,27:2,,varjo,True,36.56946396387315
+582,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,39.08,skill:score,"23:3, 16:2",,varjo,True,38.009463963873145
+583,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,40.12,skill:score,"31:2, 13:2",,varjo,True,39.049463963873144
+584,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,41.48,skill:score,"31:2, 13:2",,varjo,True,40.409463963873144
+585,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,48.24,skill:score,27:2,,varjo,True,47.16946396387315
+586,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,48.32,skill:score,6:2,,varjo,True,47.24946396387315
+587,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,58.28,skill:score,"6:2, 21:2",,varjo,True,57.20946396387315
+588,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,59.64,skill:score,"6:2, 21:2, 13:2",,varjo,True,58.56946396387315
+589,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,62.72,skill:score,"32:2, 6:2",,varjo,True,61.649463963873146
+590,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,64.6,skill:score,"1:2, 3:2",,varjo,True,63.52946396387314
+591,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,65.88,skill:score,"31:2, 13:2",,varjo,True,64.80946396387314
+592,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,67.52,skill:score,27:2,,varjo,True,66.44946396387314
+593,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,69.32,skill:score,"31:2, 13:2",,varjo,True,68.24946396387314
+594,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,71.28,skill:score,"31:2, 13:2",,varjo,True,70.20946396387315
+595,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,73.88,skill:score,7:2,,varjo,True,72.80946396387314
+596,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,83.28,skill:score,"6:2, 8:2, 21:2",,varjo,True,82.20946396387315
+597,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,86.76,skill:score,"6:2, 8:2, 21:2",,varjo,True,85.68946396387315
+598,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,137.8,skill:score,29:2,,varjo,True,136.72946396387317
+599,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,153.96,skill:score,"6:2, 21:2",,varjo,True,152.88946396387317
+600,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,155.52,skill:score,"6:2, 21:2, 13:2",,varjo,True,154.44946396387317
+601,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,163.08,skill:score,"6:2, 21:2",,varjo,True,162.00946396387317
+602,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,185.4,skill:score,"6:2, 21:2, 9:2",,varjo,True,184.32946396387317
+603,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,189.68,skill:score,"31:2, 13:2",,varjo,True,188.60946396387317
+604,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,199.76,skill:score,"24:2, 16:2",,varjo,True,198.68946396387315
+605,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,206.4,skill:score,23:2,,varjo,True,205.32946396387317
+606,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,217.44,skill:score,29:2,,varjo,True,216.36946396387316
+607,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,219.2,skill:score,29:2,,varjo,True,218.12946396387315
+608,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,219.92,skill:score,"31:2, 13:2",,varjo,True,218.84946396387315
+609,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,227.0,skill:score,29:2,,varjo,True,225.92946396387316
+610,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,228.4,skill:score,"24:2, 6:3",,varjo,True,227.32946396387317
+611,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,231.36,skill:score,"31:2, 13:2, 21:2",,varjo,True,230.28946396387317
+612,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,237.96,skill:score,"31:2, 13:2, 21:2",,varjo,True,236.88946396387317
+613,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,243.32,skill:score,"7:2, 21:2",,varjo,True,242.24946396387315
+614,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,243.68,skill:score,7:2,,varjo,True,242.60946396387317
+615,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,245.6,skill:score,27:2,,varjo,True,244.52946396387316
+616,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,248.76,skill:score,3:2,,varjo,True,247.68946396387315
+617,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,254.64,skill:score,"26:2, 13:2",,varjo,True,253.56946396387315
+618,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,259.28,skill:score,"26:2, 13:2, 3:2",,varjo,True,258.20946396387313
+619,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,264.52,skill:score,"6:2, 21:2, 26:2, 13:2, 3:2",,varjo,True,263.44946396387314
+620,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,279.52,skill:score,"6:2, 8:2",,varjo,True,278.44946396387314
+621,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,285.44,skill:score,"26:2, 27:2, 16:2",,varjo,True,284.36946396387316
+622,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,291.32,skill:score,"31:2, 13:2, 21:2",,varjo,True,290.24946396387315
+623,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,294.64,skill:score,24:2,,varjo,True,293.56946396387315
+624,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,295.32,skill:score,"31:2, 13:2, 24:2",,varjo,True,294.24946396387315
+625,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,304.88,skill:score,"6:2, 32:2",,varjo,True,303.80946396387316
+626,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,309.12,skill:score,"31:2, 13:2",,varjo,True,308.04946396387317
+627,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,324.24,skill:score,"31:2, 13:2, 21:2",,varjo,True,323.16946396387317
+628,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,326.48,skill:score,"31:2, 13:2, 16:2",,varjo,True,325.4094639638732
+629,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,330.16,skill:score,"10:2, 29:2",,varjo,True,329.0894639638732
+630,P5,sandwich,P5_sandwich_2_merged_varjo_2022-02-08_10-12-55-026.mp4,error frame,331.24,skill:score,30:2,,varjo,True,330.16946396387317
+631,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,20.04,skill:score,1:2,,varjo,True,19.995889635231904
+632,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,34.24,skill:score,1:2,,varjo,True,34.19588963523191
+633,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,45.48,skill:score,1:2,,varjo,True,45.4358896352319
+634,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,48.96,skill:score,"29:2, 10:2",,varjo,True,48.915889635231906
+635,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,49.72,skill:score,3:2,,varjo,True,49.675889635231904
+636,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,53.28,skill:score,"3:2, 1:2",,varjo,True,53.235889635231906
+637,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,62.96,skill:score,3:2,,varjo,True,62.915889635231906
+638,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,65.04,skill:score,3:2,,varjo,True,64.99588963523192
+639,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,67.64,skill:score,"3:2, 1:2",,varjo,True,67.59588963523191
+640,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,68.6,skill:score,6:2,,varjo,True,68.5558896352319
+641,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,82.2,skill:score,8:2,,varjo,True,82.15588963523192
+642,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,87.0,skill:score,6:2,,varjo,True,86.95588963523191
+643,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,93.48,skill:score,8:2,,varjo,True,93.43588963523192
+644,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,96.2,skill:score,3:2,,varjo,True,96.15588963523192
+645,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,103.76,skill:score,24:2,,varjo,True,103.71588963523192
+646,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,110.12,skill:score,24:2,,varjo,True,110.07588963523192
+647,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,121.48,skill:score,23:2,,varjo,True,121.43588963523192
+648,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,127.4,skill:score,"6:2, 7:2, 21:2",,varjo,True,127.35588963523192
+649,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,139.88,skill:score,"24:2, 21:2",,varjo,True,139.8358896352319
+650,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,144.52,skill:score,8:2,,varjo,True,144.4758896352319
+651,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,148.6,skill:score,"7:2, 8,:2",,varjo,True,148.5558896352319
+652,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,157.56,skill:score,32:2,,varjo,True,157.5158896352319
+653,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,159.2,skill:score,6:2,,varjo,True,159.1558896352319
+654,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,161.32,skill:score,"31:2, 6:2",,varjo,True,161.2758896352319
+655,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,171.36,skill:score,"23:2,27:2",,varjo,True,171.3158896352319
+656,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,172.6,skill:score,6:2,,varjo,True,172.5558896352319
+657,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,176.2,skill:score,23:2,,varjo,True,176.1558896352319
+658,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,176.96,skill:score,31:2,,varjo,True,176.9158896352319
+659,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,178.44,skill:score,"31:2, 6:2",,varjo,True,178.3958896352319
+660,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,184.84,skill:score,33:2,,varjo,True,184.7958896352319
+661,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,190.16,skill:score,"3:2, 8:2",,varjo,True,190.1158896352319
+662,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,200.32,skill:score,8:2,,varjo,True,200.2758896352319
+663,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,204.28,skill:score,8:2,,varjo,True,204.2358896352319
+664,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,242.6,skill:score,31:2,,varjo,True,242.5558896352319
+665,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,258.76,skill:score,3:2,,varjo,True,258.7158896352319
+666,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,267.92,skill:score,26:2,,varjo,True,267.87588963523194
+667,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,281.32,skill:score,7:2,,varjo,True,281.2758896352319
+668,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,287.08,skill:score,8:2,,varjo,True,287.0358896352319
+669,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,305.04,skill:score,8:2,,varjo,True,304.99588963523195
+670,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,313.2,skill:score,3:2,,varjo,True,313.1558896352319
+671,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,316.76,skill:score,"7:2, 8:2",,varjo,True,316.7158896352319
+672,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,333.12,skill:score,27:2,,varjo,True,333.07588963523193
+673,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,423.16,skill:score,"1:2,16:2",,varjo,True,423.11588963523195
+674,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,425.12,skill:score,23:2,,varjo,True,425.07588963523193
+675,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,430.6,skill:score,"23:2, 1:2",,varjo,True,430.55588963523195
+676,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,442.32,skill:score,29:2,,varjo,True,442.2758896352319
+677,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,449.96,skill:score,29:2,,varjo,True,449.9158896352319
+678,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,451.92,skill:score,1:2,,varjo,True,451.87588963523194
+679,P14,sandwich,P14_sandwich_2_merged.mp4,error frame,461.2,skill:score,"3:2,31.2, 21:2",,varjo,True,461.1558896352319
+680,P9,cereal,P9_cereal_2_merged_varjo.mp4,error frame,12.36,skill:score,6:2,,varjo,True,14.188159905178374
+681,P9,cereal,P9_cereal_2_merged_varjo.mp4,error frame,15.56,skill:score,"27:2, 23:2, 32:2",,varjo,True,17.388159905178377
+682,P9,cereal,P9_cereal_2_merged_varjo.mp4,error frame,27.32,skill:score,27:2,,varjo,True,29.148159905178375
+683,P9,cereal,P9_cereal_2_merged_varjo.mp4,error frame,28.64,skill:score,32:2,,varjo,True,30.468159905178375
+684,P9,cereal,P9_cereal_2_merged_varjo.mp4,error frame,40.0,skill:score,13.3,,varjo,True,41.828159905178374
+685,P9,cereal,P9_cereal_2_merged_varjo.mp4,error frame,43.36,skill:score,24:2,,varjo,True,45.188159905178374
+686,P9,cereal,P9_cereal_2_merged_varjo.mp4,error frame,47.68,skill:score,24:2,,varjo,True,49.508159905178374
+687,P9,cereal,P9_cereal_2_merged_varjo.mp4,error frame,76.16,skill:score,32:2,,varjo,True,77.98815990517838
+688,P9,cereal,P9_cereal_2_merged_varjo.mp4,error frame,84.12,skill:score,8:2,,varjo,True,85.94815990517839
+689,P9,cereal,P9_cereal_2_merged_varjo.mp4,error frame,87.84,skill:score,3:2,,varjo,True,89.66815990517838
+690,P9,cereal,P9_cereal_2_merged_varjo.mp4,error frame,100.68,skill:score,31:2,,varjo,True,102.50815990517839
+691,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,11.36,skill:score,23:2,,varjo,True,11.352726316169612
+692,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,12.12,skill:score,23:2,,varjo,True,12.112726316169613
+693,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,13.16,skill:score,6:2,,varjo,True,13.152726316169613
+694,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,15.08,skill:score,"6:2, 31:2, 13:2",,varjo,True,15.072726316169614
+695,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,20.04,skill:score,23:2,,varjo,True,20.03272631616961
+696,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,23.04,skill:score,33:2,,varjo,True,23.03272631616961
+697,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,25.04,skill:score,27:2,,varjo,True,25.03272631616961
+698,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,36.88,skill:score,29:2,,varjo,True,36.87272631616962
+699,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,41.52,skill:score,"31:2, 7:2",,varjo,True,41.51272631616962
+700,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,57.04,skill:score,"31:2, 21:2",,varjo,True,57.032726316169615
+701,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,63.2,skill:score,3:2,,varjo,True,63.19272631616962
+702,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,70.68,skill:score,3:2,,varjo,True,70.67272631616962
+703,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,76.12,skill:score,"31:2, 32:2",,varjo,True,76.11272631616961
+704,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,80.08,skill:score,2:1,,varjo,True,80.07272631616961
+705,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,81.28,skill:score,23:2,,varjo,True,81.27272631616961
+706,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,92.88,skill:score,"24:2, 12:2",,varjo,True,92.8727263161696
+707,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,95.64,skill:score,33:2,,varjo,True,95.63272631616961
+708,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,98.96,skill:score,6:2,,varjo,True,98.9527263161696
+709,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,109.32,skill:score,29:2,,varjo,True,109.3127263161696
+710,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,112.24,skill:score,"31:2, 29:2",,varjo,True,112.2327263161696
+711,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,114.92,skill:score,7:2,,varjo,True,114.91272631616961
+712,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,133.52,skill:score,"24:2, 8:2",,varjo,True,133.51272631616962
+713,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,150.6,skill:score,32:2,,varjo,True,150.5927263161696
+714,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,155.12,skill:score,23:2,,varjo,True,155.1127263161696
+715,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,166.8,skill:score,23:2,,varjo,True,166.79272631616962
+716,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,191.24,skill:score,"31:2, 29:2",,varjo,True,191.23272631616962
+717,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,200.2,skill:score,"33:2, 32:2",,varjo,True,200.1927263161696
+718,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,207.48,skill:score,7:2,,varjo,True,207.4727263161696
+719,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,212.96,skill:score,8:2,,varjo,True,212.95272631616962
+720,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,250.64,skill:score,8:2,,varjo,True,250.6327263161696
+721,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,268.64,skill:score,8:2,,varjo,True,268.6327263161696
+722,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,280.2,skill:score,"31:2, 6:2",,varjo,True,280.1927263161696
+723,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,325.88,skill:score,24:2,,varjo,True,325.87272631616963
+724,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,339.16,skill:score,7:2,,varjo,True,339.15272631616966
+725,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,349.68,skill:score,26:2,,varjo,True,349.67272631616964
+726,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,353.6,skill:score,16:2,,varjo,True,353.59272631616966
+727,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,370.24,skill:score,29:2,,varjo,True,370.23272631616965
+728,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,375.84,skill:score,3:2,,varjo,True,375.8327263161696
+729,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,401.44,skill:score,3:2,,varjo,True,401.43272631616964
+730,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,415.56,skill:score,"3:2, 23:2",,varjo,True,415.55272631616964
+731,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,542.28,skill:score,"24:2, 12:2",,varjo,True,542.2727263161696
+732,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,557.48,skill:score,"31:2, 13:2",,varjo,True,557.4727263161697
+733,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,566.52,skill:score,"10:2, 29:2",,varjo,True,566.5127263161696
+734,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,573.04,skill:score,31:2,,varjo,True,573.0327263161696
+735,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,625.12,skill:score,"32:2, 13:2",,varjo,True,625.1127263161696
+736,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,651.48,skill:score,24:2,,varjo,True,651.4727263161697
+737,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,690.84,skill:score,"31:2, 13:2",,varjo,True,690.8327263161697
+738,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,697.56,skill:score,6:2,,varjo,True,697.5527263161696
+739,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,699.24,skill:score,24:2,,varjo,True,699.2327263161696
+740,P21,sandwich,P21_sandwich_2_merged_varjo.mp4,error frame,716.64,skill:score,29:2,,varjo,True,716.6327263161696
+741,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,13.8,skill:score,"6:2, 7:2, 31:2",,varjo,True,16.159023674316977
+742,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,16.92,skill:score,"10:2, 13:2, 21:2",,varjo,True,19.279023674316978
+743,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,23.0,skill:score,"31:2, 13:2",,varjo,True,25.359023674316976
+744,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,24.24,skill:score,6:2,,varjo,True,26.599023674316975
+745,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,26.16,skill:score,3:2,,varjo,True,28.519023674316976
+746,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,27.68,skill:score,"31:2, 13:2",,varjo,True,30.039023674316976
+747,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,56.36,skill:score,24:2,,varjo,True,58.71902367431698
+748,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,57.2,skill:score,31:2,,varjo,True,59.55902367431698
+749,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,66.08,skill:score,24:2,,varjo,True,68.43902367431697
+750,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,71.72,skill:score,"31:2, 13:2",,varjo,True,74.07902367431697
+751,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,78.64,skill:score,24:2,,varjo,True,80.99902367431697
+752,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,103.76,skill:score,24:2,,varjo,True,106.11902367431698
+753,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,109.52,skill:score,8:2,,varjo,True,111.87902367431697
+754,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,116.08,skill:score,29:2,,varjo,True,118.43902367431697
+755,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,144.68,skill:score,"29:2, 10:3",,varjo,True,147.03902367431698
+756,P3,cereal,P3_cereal_2_merged_varjo.mp4,error frame,168.08,skill:score,"31:2, 13:2",,varjo,True,170.43902367431699
+757,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,15.16,skill:score,24:2,,varjo,True,16.81979175799262
+758,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,25.16,skill:score,24:2,,varjo,True,26.81979175799262
+759,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,26.2,skill:score,1:2,,varjo,True,27.859791757992618
+760,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,36.16,skill:score,1:2,,varjo,True,37.81979175799262
+761,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,42.28,skill:score,3:2,,varjo,True,43.93979175799262
+762,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,46.36,skill:score,"3:2,24:2",,varjo,True,48.01979175799262
+763,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,54.12,skill:score,23:2,,varjo,True,55.77979175799261
+764,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,56.76,skill:score,10:2,,varjo,True,58.41979175799261
+765,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,60.28,skill:score,8:2,,varjo,True,61.93979175799262
+766,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,66.64,skill:score,3:2,,varjo,True,68.29979175799262
+767,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,89.6,skill:score,1:2,,varjo,True,91.25979175799262
+768,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,94.2,skill:score,8:2,,varjo,True,95.85979175799262
+769,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,105.88,skill:score,8:2,,varjo,True,107.53979175799262
+770,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,113.72,skill:score,8:2,,varjo,True,115.37979175799262
+771,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,115.32,skill:score,"23:2, 27:2",,varjo,True,116.97979175799261
+772,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,140.88,skill:score,"6:2, 21:2",,varjo,True,142.53979175799262
+773,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,147.72,skill:score,6:2,,varjo,True,149.37979175799262
+774,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,154.24,skill:score,6:2,,varjo,True,155.89979175799263
+775,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,164.72,skill:score,8:2,,varjo,True,166.37979175799262
+776,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,172.32,skill:score,8:2,,varjo,True,173.97979175799261
+777,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,176.88,skill:score,24:2,,varjo,True,178.53979175799262
+778,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,187.04,skill:score,8:2,,varjo,True,188.6997917579926
+779,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,194.24,skill:score,22:2,,varjo,True,195.89979175799263
+780,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,199.92,skill:score,23:2,,varjo,True,201.5797917579926
+781,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,222.04,skill:score,"1:2, 27:2",,varjo,True,223.6997917579926
+782,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,228.72,skill:score,29:2,,varjo,True,230.37979175799262
+783,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,235.2,skill:score,23:2,,varjo,True,236.8597917579926
+784,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,240.04,skill:score,16:2,,varjo,True,241.6997917579926
+785,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,247.4,skill:score,33:2,,varjo,True,249.05979175799263
+786,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,254.92,skill:score,"7:2, 31:2",,varjo,True,256.5797917579926
+787,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,265.88,skill:score,"31:2, 13:2",,varjo,True,267.5397917579926
+788,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,270.68,skill:score,24:2,,varjo,True,272.3397917579926
+789,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,272.72,skill:score,23:2,,varjo,True,274.3797917579926
+790,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,281.68,skill:score,29:2,,varjo,True,283.3397917579926
+791,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,291.04,skill:score,8:2,,varjo,True,292.6997917579926
+792,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,329.0,skill:score,3:2,,varjo,True,330.6597917579926
+793,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,331.52,skill:score,8:2,,varjo,True,333.1797917579926
+794,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,335.64,skill:score,"32:2, 21:2",,varjo,True,337.2997917579926
+795,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,343.56,skill:score,8:2,,varjo,True,345.2197917579926
+796,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,349.08,skill:score,29:2,,varjo,True,350.7397917579926
+797,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,392.4,skill:score,"32:2, 21: 2",,varjo,True,394.05979175799257
+798,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,398.52,skill:score,"8:2, 20:3, 33:2",,varjo,True,400.1797917579926
+799,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,405.48,skill:score,16:2,,varjo,True,407.1397917579926
+800,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,442.4,skill:score,23:2,,varjo,True,444.05979175799257
+801,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,447.0,skill:score,"8:2, 21:2",,varjo,True,448.6597917579926
+802,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,455.56,skill:score,8:2,,varjo,True,457.2197917579926
+803,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,465.64,skill:score,"31:2, 6:2",,varjo,True,467.2997917579926
+804,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,469.64,skill:score,"24:2, 29:2",,varjo,True,471.2997917579926
+805,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,508.84,skill:score,23:2,,varjo,True,510.49979175799257
+806,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,523.84,skill:score,"8:2, 27:2",,varjo,True,525.4997917579926
+807,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,525.44,skill:score,3:2,,varjo,True,527.0997917579926
+808,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,528.64,skill:score,8:2,,varjo,True,530.2997917579926
+809,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,541.04,skill:score,8:2,,varjo,True,542.6997917579926
+810,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,546.48,skill:score,22:2,,varjo,True,548.1397917579926
+811,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,553.36,skill:score,24:2,,varjo,True,555.0197917579926
+812,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,562.2,skill:score,8:2,,varjo,True,563.8597917579926
+813,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,588.84,skill:score,8:2,,varjo,True,590.4997917579926
+814,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,605.32,skill:score,24:2,,varjo,True,606.9797917579926
+815,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,654.84,skill:score,"29:2, 28:2",,varjo,True,656.4997917579926
+816,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,665.32,skill:score,16:2,,varjo,True,666.9797917579926
+817,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,667.84,skill:score,13:2,,varjo,True,669.4997917579926
+818,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,674.4,skill:score,13:2,,varjo,True,676.0597917579926
+819,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,745.24,skill:score,29:2,,varjo,True,746.8997917579926
+820,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,777.72,skill:score,6:2,,varjo,True,779.3797917579926
+821,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,781.8,skill:score,1:2,,varjo,True,783.4597917579925
+822,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,796.4,skill:score,31:2,,varjo,True,798.0597917579926
+823,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,806.96,skill:score,1:2,,varjo,True,808.6197917579926
+824,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,809.88,skill:score,3:2,,varjo,True,811.5397917579926
+825,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,871.4,skill:score,22:2,,varjo,True,873.0597917579926
+826,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,876.8,skill:score,31:2,,varjo,True,878.4597917579925
+827,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,884.12,skill:score,3:2,,varjo,True,885.7797917579926
+828,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,890.16,skill:score,"31:2, 24:2",,varjo,True,891.8197917579926
+829,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,893.72,skill:score,3:2,,varjo,True,895.3797917579926
+830,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,902.72,skill:score,1:2,,varjo,True,904.3797917579926
+831,P23,sandwich,P23_sandwich_2_merged.mp4,error frame,932.72,skill:score,29:2,,varjo,True,934.3797917579926
+832,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,19.2,skill:score,1:2,,varjo,True,21.35768924676381
+833,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,20.56,skill:score,6:2,,varjo,True,22.71768924676381
+834,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,24.4,skill:score,31:2,,varjo,True,26.557689246763815
+835,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,28.4,skill:score,"31:2, 13:2",,varjo,True,30.557689246763815
+836,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,29.24,skill:score,"6:2, 13:2",,varjo,True,31.39768924676381
+837,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,34.36,skill:score,"31:2, 13:2",,varjo,True,36.517689246763815
+838,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,48.2,skill:score,3:2,,varjo,True,50.35768924676382
+839,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,58.24,skill:score,"6:2, 8:2",,varjo,True,60.39768924676382
+840,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,82.52,skill:score,23:2,,varjo,True,84.6776892467638
+841,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,89.92,skill:score,3:2,,varjo,True,92.07768924676381
+842,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,90.56,skill:score,26:2,,varjo,True,92.71768924676381
+843,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,105.76,skill:score,13:2,,varjo,True,107.91768924676381
+844,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,106.88,skill:score,33:2,,varjo,True,109.0376892467638
+845,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,110.56,skill:score,"23:2, 16:2",,varjo,True,112.71768924676381
+846,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,114.84,skill:score,27:2,,varjo,True,116.99768924676381
+847,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,116.52,skill:score,33:2,,varjo,True,118.6776892467638
+848,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,119.2,skill:score,31:2,,varjo,True,121.35768924676381
+849,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,124.52,skill:score,"23:2, 16:2",,varjo,True,126.6776892467638
+850,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,135.12,skill:score,6:2,,varjo,True,137.27768924676383
+851,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,138.08,skill:score,"3:2, 1:2",,varjo,True,140.23768924676384
+852,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,144.76,skill:score,"31:2,",,varjo,True,146.9176892467638
+853,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,145.44,skill:score,"6:2, 21:2",,varjo,True,147.59768924676382
+854,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,169.84,skill:score,"16:2,",,varjo,True,171.99768924676383
+855,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,178.28,skill:score,"31:2,",,varjo,True,180.43768924676382
+856,P22,cereal,P22_cereal_2_merged_varjo.mp4,error frame,181.96,skill:score,"31:2,13:2, 21:2",,varjo,True,184.11768924676383
+857,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,13.28,skill:score,8:2,,varjo,True,19.674588598749757
+858,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,13.96,skill:score,"31:2, 21:2",,varjo,True,20.35458859874976
+859,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,29.72,skill:score,24:2,,varjo,True,36.11458859874976
+860,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,37.44,skill:score,31:2,,varjo,True,43.83458859874976
+861,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,48.32,skill:score,"6:2, 3:2",,varjo,True,54.714588598749756
+862,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,50.28,skill:score,"6:2, 27:2",,varjo,True,56.674588598749764
+863,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,57.44,skill:score,23:2,,varjo,True,63.83458859874976
+864,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,59.52,skill:score,23:2,,varjo,True,65.91458859874976
+865,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,60.64,skill:score,6:2,,varjo,True,67.03458859874976
+866,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,71.04,skill:score,3:2,,varjo,True,77.43458859874977
+867,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,76.36,skill:score,23:2,,varjo,True,82.75458859874976
+868,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,79.32,skill:score,"23:2, 27:2",,varjo,True,85.71458859874976
+869,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,81.72,skill:score,"31:2, 7:2, 13:2",,varjo,True,88.11458859874976
+870,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,88.28,skill:score,23:2,,varjo,True,94.67458859874976
+871,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,90.96,skill:score,1:2,,varjo,True,97.35458859874976
+872,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,93.32,skill:score,27:2,,varjo,True,99.71458859874976
+873,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,103.32,skill:score,24:2,,varjo,True,109.71458859874976
+874,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,107.08,skill:score,31:2,,varjo,True,113.47458859874976
+875,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,108.76,skill:score,24:2,,varjo,True,115.15458859874977
+876,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,120.52,skill:score,"7:2, 6:2, 3:2",,varjo,True,126.91458859874976
+877,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,125.52,skill:score,"6:2, 8:2",,varjo,True,131.91458859874976
+878,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,137.88,skill:score,8:2,,varjo,True,144.27458859874974
+879,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,142.28,skill:score,8:2,,varjo,True,148.67458859874975
+880,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,146.04,skill:score,25:2,,varjo,True,152.43458859874974
+881,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,178.12,skill:score,8:2,,varjo,True,184.51458859874975
+882,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,199.16,skill:score,"10:2, 29:2",,varjo,True,205.55458859874975
+883,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,201.2,skill:score,"23:2, 16:2",,varjo,True,207.59458859874974
+884,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,205.16,skill:score,"6:2, 31:2, 21: 2",,varjo,True,211.55458859874975
+885,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,208.92,skill:score,27:2,,varjo,True,215.31458859874974
+886,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,214.68,skill:score,"23:2, 16:2",,varjo,True,221.07458859874976
+887,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,223.44,skill:score,8:2,,varjo,True,229.83458859874975
+888,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,230.72,skill:score,23: 2,,varjo,True,237.11458859874975
+889,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,236.56,skill:score,"8:2, 21:2, 32:2",,varjo,True,242.95458859874975
+890,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,258.4,skill:score,"13: 2, 31: 2, 3: 2",,varjo,True,264.7945885987497
+891,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,260.76,skill:score,27:2,,varjo,True,267.15458859874974
+892,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,269.92,skill:score,16:2,,varjo,True,276.31458859874976
+893,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,274.72,skill:score,8:2,,varjo,True,281.1145885987498
+894,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,276.08,skill:score,6:2,,varjo,True,282.47458859874973
+895,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,287.04,skill:score,31:2,,varjo,True,293.43458859874977
+896,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,289.56,skill:score,8:2,,varjo,True,295.95458859874975
+897,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,293.72,skill:score,8:2,,varjo,True,300.1145885987498
+898,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,314.88,skill:score,8:2,,varjo,True,321.27458859874974
+899,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,315.08,skill:score,32: 2,,varjo,True,321.47458859874973
+900,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,323.76,skill:score,24: 2,,varjo,True,330.15458859874974
+901,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,346.12,skill:score,7:2,,varjo,True,352.51458859874975
+902,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,353.8,skill:score,8:2,,varjo,True,360.19458859874976
+903,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,357.76,skill:score,27:2,,varjo,True,364.15458859874974
+904,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,362.8,skill:score,31:2,,varjo,True,369.19458859874976
+905,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,363.12,skill:score,6:2,,varjo,True,369.51458859874975
+906,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,369.36,skill:score,13:2,,varjo,True,375.75458859874976
+907,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,402.24,skill:score,23:2,,varjo,True,408.63458859874976
+908,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,408.44,skill:score,"8:2, 3:2",,varjo,True,414.83458859874975
+909,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,414.56,skill:score,31:2,,varjo,True,420.95458859874975
+910,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,415.92,skill:score,3:2,,varjo,True,422.31458859874976
+911,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,420.16,skill:score,24:2,,varjo,True,426.5545885987498
+912,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,436.48,skill:score,23:2,,varjo,True,442.87458859874977
+913,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,439.6,skill:score,6:2,,varjo,True,445.9945885987498
+914,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,452.16,skill:score,"7:2, 31:2",,varjo,True,458.5545885987498
+915,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,461.4,skill:score,"33:2, 8:2",,varjo,True,467.7945885987497
+916,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,470.32,skill:score,"3:2, 13:2, 31:2",,varjo,True,476.71458859874974
+917,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,474.16,skill:score,8:2,,varjo,True,480.5545885987498
+918,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,490.56,skill:score,6:2,,varjo,True,496.95458859874975
+919,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,514.04,skill:score,24:2,,varjo,True,520.4345885987498
+920,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,517.52,skill:score,16:2,,varjo,True,523.9145885987498
+921,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,535.44,skill:score,7:2,,varjo,True,541.8345885987499
+922,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,543.32,skill:score,4:2,,varjo,True,549.7145885987499
+923,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,546.12,skill:score,23:2,,varjo,True,552.5145885987498
+924,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,560.92,skill:score,24:2,,varjo,True,567.3145885987498
+925,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,578.04,skill:score,"23:2, 16:2",,varjo,True,584.4345885987498
+926,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,581.48,skill:score,"13:2, 31:2",,varjo,True,587.8745885987498
+927,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,584.36,skill:score,23:2,,varjo,True,590.7545885987498
+928,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,591.32,skill:score,33:2,,varjo,True,597.7145885987499
+929,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,595.0,skill:score,6:2,,varjo,True,601.3945885987498
+930,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,604.4,skill:score,12:2,,varjo,True,610.7945885987498
+931,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,616.72,skill:score,23:2,,varjo,True,623.1145885987498
+932,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,618.24,skill:score,27:2,,varjo,True,624.6345885987498
+933,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,641.8,skill:score,3:2,,varjo,True,648.1945885987498
+934,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,647.28,skill:score,1:2,,varjo,True,653.6745885987498
+935,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,648.76,skill:score,3:2,,varjo,True,655.1545885987498
+936,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,654.64,skill:score,"32:2, 33:2",,varjo,True,661.0345885987498
+937,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,706.04,skill:score,"8:2, 21:2",,varjo,True,712.4345885987498
+938,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,714.68,skill:score,29:2,,varjo,True,721.0745885987498
+939,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,733.64,skill:score,24:2,,varjo,True,740.0345885987498
+940,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,739.88,skill:score,"12.2, 16:2",,varjo,True,746.2745885987498
+941,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,740.16,skill:score,"31:2, 13:2, 6:2",,varjo,True,746.5545885987498
+942,P22,sandwich,P22_sandwich_2_merged.mp4,error frame,769.4,skill:score,29:2,,varjo,True,775.7945885987498
+943,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,11.72,skill:score,"6:2, 31:2",,varjo,True,13.782760902798366
+944,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,17.84,skill:score,6:2,,varjo,True,19.902760902798363
+945,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,22.52,skill:score,8:2,,varjo,True,24.582760902798363
+946,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,26.36,skill:score,"3:2, 8:2",,varjo,True,28.422760902798363
+947,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,30.88,skill:score,33:2,,varjo,True,32.94276090279836
+948,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,35.44,skill:score,"31:2, 7:2",,varjo,True,37.502760902798364
+949,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,46.6,skill:score,8:2,,varjo,True,48.66276090279837
+950,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,50.88,skill:score,29:2,,varjo,True,52.94276090279837
+951,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,55.36,skill:score,3:2,,varjo,True,57.422760902798366
+952,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,55.84,skill:score,1:2,,varjo,True,57.90276090279837
+953,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,61.0,skill:score,"24:2, 8:2",,varjo,True,63.06276090279837
+954,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,64.64,skill:score,29:2,,varjo,True,66.70276090279836
+955,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,68.48,skill:score,"3:2, 8:2",,varjo,True,70.54276090279836
+956,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,81.72,skill:score,3:2,,varjo,True,83.78276090279836
+957,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,96.0,skill:score,24:2,,varjo,True,98.06276090279836
+958,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,107.36,skill:score,8:2,,varjo,True,109.42276090279836
+959,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,113.28,skill:score,8:2,,varjo,True,115.34276090279836
+960,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,128.12,skill:score,"31:2, 21:2",,varjo,True,130.18276090279838
+961,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,132.28,skill:score,24:2,,varjo,True,134.34276090279837
+962,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,137.76,skill:score,"3:2, 16:2",,varjo,True,139.82276090279836
+963,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,140.6,skill:score,1:2,,varjo,True,142.66276090279837
+964,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,164.64,skill:score,"32:2, 33:2",,varjo,True,166.70276090279836
+965,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,168.48,skill:score,"29:2, 31:2, 32:2",,varjo,True,170.54276090279836
+966,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,179.92,skill:score,31:2,,varjo,True,181.98276090279836
+967,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,185.12,skill:score,3:2,,varjo,True,187.18276090279838
+968,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,186.2,skill:score,"6:2, 23:2",,varjo,True,188.26276090279836
+969,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,188.64,skill:score,"6:2, 23:2",,varjo,True,190.70276090279836
+970,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,191.28,skill:score,13:2,,varjo,True,193.34276090279837
+971,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,192.88,skill:score,29:2,,varjo,True,194.94276090279837
+972,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,209.84,skill:score,"31:2, 21:2",,varjo,True,211.90276090279838
+973,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,241.6,skill:score,"3:2, 6:2",,varjo,True,243.66276090279837
+974,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,263.24,skill:score,6:2,,varjo,True,265.30276090279835
+975,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,279.36,skill:score,33:2,,varjo,True,281.42276090279836
+976,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,289.2,skill:score,8:2,,varjo,True,291.26276090279833
+977,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,304.72,skill:score,3:2,,varjo,True,306.7827609027984
+978,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,321.8,skill:score,"3:2, 24:2",,varjo,True,323.86276090279836
+979,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,324.92,skill:score,3:2,,varjo,True,326.98276090279836
+980,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,328.56,skill:score,27:2,,varjo,True,330.62276090279835
+981,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,335.52,skill:score,1:2,,varjo,True,337.5827609027983
+982,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,360.56,skill:score,8:2,,varjo,True,362.62276090279835
+983,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,385.68,skill:score,"24:2, 8:2",,varjo,True,387.74276090279835
+984,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,391.52,skill:score,29:2,,varjo,True,393.5827609027983
+985,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,405.08,skill:score,8:2,,varjo,True,407.14276090279833
+986,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,407.92,skill:score,13:2,,varjo,True,409.98276090279836
+987,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,440.04,skill:score,"8:2, 23:2",,varjo,True,442.10276090279837
+988,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,444.76,skill:score,29:2,,varjo,True,446.82276090279834
+989,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,496.92,skill:score,8:2,,varjo,True,498.98276090279836
+990,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,528.12,skill:score,8:2,,varjo,True,530.1827609027983
+991,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,565.24,skill:score,6:2,,varjo,True,567.3027609027984
+992,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,592.88,skill:score,6:2,,varjo,True,594.9427609027983
+993,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,603.16,skill:score,"3:2, 24:2, 25:2",,varjo,True,605.2227609027983
+994,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,624.04,skill:score,13:2,,varjo,True,626.1027609027983
+995,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,635.84,skill:score,3:2,,varjo,True,637.9027609027984
+996,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,646.88,skill:score,23:2,,varjo,True,648.9427609027983
+997,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,648.72,skill:score,3:2,,varjo,True,650.7827609027984
+998,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,655.08,skill:score,31:2,,varjo,True,657.1427609027984
+999,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,661.12,skill:score,31:2,,varjo,True,663.1827609027983
+1000,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,679.96,skill:score,29:2,,varjo,True,682.0227609027984
+1001,P25,sandwich,P25_sandwich_2_merged_varjo.mp4,error frame,682.56,skill:score,24:2,,varjo,True,684.6227609027983
+1002,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,11.12,skill:score,"6:2, 3:2",,varjo,True,11.44612605832535
+1003,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,20.12,skill:score,23:2,,varjo,True,20.44612605832535
+1004,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,23.48,skill:score,32:2,,varjo,True,23.80612605832535
+1005,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,26.44,skill:score,13:2,,varjo,True,26.76612605832535
+1006,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,29.76,skill:score,"6:2, 31:2",,varjo,True,30.086126058325352
+1007,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,30.72,skill:score,13:2,,varjo,True,31.04612605832535
+1008,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,32.28,skill:score,13:2,,varjo,True,32.60612605832535
+1009,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,32.88,skill:score,29:2,,varjo,True,33.20612605832535
+1010,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,43.04,skill:score,29:2,,varjo,True,43.36612605832535
+1011,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,43.88,skill:score,24:2,,varjo,True,44.20612605832535
+1012,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,46.2,skill:score,3:2,,varjo,True,46.52612605832535
+1013,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,48.68,skill:score,24:2,,varjo,True,49.00612605832535
+1014,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,55.84,skill:score,8:2,,varjo,True,56.166126058325354
+1015,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,62.56,skill:score,3:2,,varjo,True,62.88612605832535
+1016,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,67.04,skill:score,8:2,,varjo,True,67.36612605832536
+1017,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,70.48,skill:score,6:2,,varjo,True,70.80612605832536
+1018,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,87.2,skill:score,23:2,,varjo,True,87.52612605832536
+1019,P6,cereal,P6_cereal_2_merged_varjo.mp4,error frame,98.44,skill:score,29:2,,varjo,True,98.76612605832534
+1020,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,11.72,skill:score,1:2,,varjo,True,18.44515227152209
+1021,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,13.88,skill:score,"31:2, 13:2",,varjo,True,20.60515227152209
+1022,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,16.0,skill:score,1:2,,varjo,True,22.72515227152209
+1023,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,16.68,skill:score,21:2,,varjo,True,23.40515227152209
+1024,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,17.68,skill:score,"10:2, 21:2",,varjo,True,24.40515227152209
+1025,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,19.16,skill:score,"6:2, 21:2",,varjo,True,25.885152271522088
+1026,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,25.72,skill:score,33:2,,varjo,True,32.44515227152209
+1027,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,27.08,skill:score,"31:2, 13:2",,varjo,True,33.80515227152209
+1028,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,40.0,skill:score,10:2,,varjo,True,46.72515227152209
+1029,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,41.68,skill:score,3:2,,varjo,True,48.40515227152209
+1030,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,44.6,skill:score,3:2,,varjo,True,51.32515227152209
+1031,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,45.88,skill:score,24:2,,varjo,True,52.605152271522094
+1032,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,46.96,skill:score,10:2,,varjo,True,53.68515227152209
+1033,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,54.0,skill:score,"26:2, 3:2, 13:2",,varjo,True,60.72515227152209
+1034,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,56.12,skill:score,33:2,,varjo,True,62.84515227152209
+1035,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,59.52,skill:score,3:2,,varjo,True,66.24515227152209
+1036,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,62.32,skill:score,24:2,,varjo,True,69.04515227152208
+1037,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,68.28,skill:score,23:2,,varjo,True,75.00515227152209
+1038,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,70.12,skill:score,29:2,,varjo,True,76.8451522715221
+1039,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,71.36,skill:score,23:2,,varjo,True,78.08515227152209
+1040,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,83.96,skill:score,6:2,,varjo,True,90.68515227152209
+1041,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,89.84,skill:score,6:2,,varjo,True,96.5651522715221
+1042,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,112.0,skill:score,"6:2, 13:2",,varjo,True,118.72515227152209
+1043,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,115.64,skill:score,"6:2, 13:2",,varjo,True,122.36515227152209
+1044,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,118.72,skill:score,24:2,,varjo,True,125.44515227152209
+1045,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,126.88,skill:score,"29:2, 10:2",,varjo,True,133.6051522715221
+1046,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,129.08,skill:score,"1:2, 6:2",,varjo,True,135.8051522715221
+1047,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,133.64,skill:score,"1:2, 3:2, 10:2",,varjo,True,140.36515227152208
+1048,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,139.36,skill:score,"1:2, 3:2,",,varjo,True,146.0851522715221
+1049,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,144.64,skill:score,"1:2, 3:2, 33:2",,varjo,True,151.36515227152208
+1050,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,147.24,skill:score,33:2,,varjo,True,153.9651522715221
+1051,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,160.6,skill:score,"6:2, 8:2",,varjo,True,167.3251522715221
+1052,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,175.0,skill:score,23:2,,varjo,True,181.7251522715221
+1053,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,178.28,skill:score,10:2,,varjo,True,185.0051522715221
+1054,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,184.36,skill:score,6:2,,varjo,True,191.0851522715221
+1055,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,185.4,skill:score,27:2,,varjo,True,192.1251522715221
+1056,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,187.84,skill:score,"31:2, 13:2",,varjo,True,194.5651522715221
+1057,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,189.4,skill:score,"31:2, 13:2, 10:2",,varjo,True,196.1251522715221
+1058,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,234.72,skill:score,"6:2, 8:2",,varjo,True,241.4451522715221
+1059,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,243.0,skill:score,29:2,,varjo,True,249.7251522715221
+1060,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,243.8,skill:score,16:2,,varjo,True,250.5251522715221
+1061,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,247.56,skill:score,29:2,,varjo,True,254.2851522715221
+1062,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,279.4,skill:score,6:2,,varjo,True,286.12515227152204
+1063,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,280.32,skill:score,6:2,,varjo,True,287.04515227152206
+1064,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,281.8,skill:score,24:2,,varjo,True,288.5251522715221
+1065,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,287.56,skill:score,"29:2, 33:2",,varjo,True,294.28515227152207
+1066,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,292.36,skill:score,"6:2, 8:2",,varjo,True,299.0851522715221
+1067,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,306.44,skill:score,3:2,,varjo,True,313.16515227152206
+1068,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,316.0,skill:score,16:2,,varjo,True,322.72515227152206
+1069,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,321.12,skill:score,9:2,,varjo,True,327.84515227152207
+1070,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,330.84,skill:score,3:2,,varjo,True,337.56515227152204
+1071,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,349.24,skill:score,"27:2, 33:2",,varjo,True,355.9651522715221
+1072,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,352.44,skill:score,6:2,,varjo,True,359.16515227152206
+1073,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,361.36,skill:score,"23:2, 27:3",,varjo,True,368.0851522715221
+1074,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,368.32,skill:score,1:2,,varjo,True,375.04515227152206
+1075,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,370.52,skill:score,"10:2, 29:2",,varjo,True,377.24515227152204
+1076,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,373.36,skill:score,"10:2, 3:2",,varjo,True,380.0851522715221
+1077,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,377.48,skill:score,"10:2, 13:2",,varjo,True,384.2051522715221
+1078,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,382.88,skill:score,"33:2, 1:2",,varjo,True,389.60515227152206
+1079,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,387.28,skill:score,"31:2, 13:2",,varjo,True,394.00515227152204
+1080,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,388.24,skill:score,29:2,,varjo,True,394.9651522715221
+1081,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,394.24,skill:score,16:2,,varjo,True,400.9651522715221
+1082,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,396.04,skill:score,16:2,,varjo,True,402.7651522715221
+1083,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,396.56,skill:score,"33:2, 13:2, 17:2",,varjo,True,403.28515227152207
+1084,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,399.0,skill:score,35:1,,varjo,True,405.72515227152206
+1085,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,401.4,skill:score,"1:2, 17:2",,varjo,True,408.12515227152204
+1086,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,409.6,skill:score,24:2,,varjo,True,416.3251522715221
+1087,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,413.68,skill:score,33:2,,varjo,True,420.40515227152207
+1088,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,420.52,skill:score,16:2,,varjo,True,427.24515227152204
+1089,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,422.0,skill:score,33:2,,varjo,True,428.72515227152206
+1090,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,442.56,skill:score,24:2,,varjo,True,449.28515227152207
+1091,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,447.32,skill:score,26:2,,varjo,True,454.04515227152206
+1092,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,448.52,skill:score,33:2,,varjo,True,455.24515227152204
+1093,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,454.08,skill:score,6:2,,varjo,True,460.80515227152205
+1094,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,456.48,skill:score,"31:2, 13:2",,varjo,True,463.2051522715221
+1095,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,464.72,skill:score,"29:2, 10:2",,varjo,True,471.4451522715221
+1096,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,467.2,skill:score,10:2,,varjo,True,473.92515227152205
+1097,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,468.68,skill:score,29:2,,varjo,True,475.40515227152207
+1098,P3,sandwich,P3_sandwich_2_merged_varjo.mp4,error frame,521.68,skill:score,10:2,,varjo,True,528.4051522715221
+1099,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,13.36,skill:score,27:2,,varjo,True,13.190097038794988
+1100,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,14.12,skill:score,13:2,,varjo,True,13.950097038794986
+1101,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,30.6,skill:score,"31:2, 6:2",,varjo,True,30.43009703879499
+1102,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,36.36,skill:score,23:2,,varjo,True,36.19009703879499
+1103,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,48.52,skill:score,23:2,,varjo,True,48.35009703879499
+1104,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,50.4,skill:score,"23:2, 24:2",,varjo,True,50.23009703879499
+1105,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,57.24,skill:score,3:2,,varjo,True,57.07009703879499
+1106,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,64.48,skill:score,24:2,,varjo,True,64.31009703879499
+1107,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,74.76,skill:score,23:2,,varjo,True,74.590097038795
+1108,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,79.2,skill:score,3:2,,varjo,True,79.03009703879499
+1109,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,87.68,skill:score,8:2,,varjo,True,87.510097038795
+1110,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,91.92,skill:score,"24:2, 23:2",,varjo,True,91.75009703879499
+1111,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,98.64,skill:score,"6:2, 21:2",,varjo,True,98.47009703879499
+1112,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,103.84,skill:score,31:2,,varjo,True,103.67009703879499
+1113,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,112.6,skill:score,6:2,,varjo,True,112.43009703879498
+1114,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,114.88,skill:score,31:2,,varjo,True,114.71009703879498
+1115,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,117.76,skill:score,13:2,,varjo,True,117.590097038795
+1116,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,135.16,skill:score,"24.2, 23:2",,varjo,True,134.99009703879497
+1117,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,149.04,skill:score,29:2,,varjo,True,148.87009703879497
+1118,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,177.6,skill:score,24:2,,varjo,True,177.43009703879497
+1119,P13,cereal,P13_cereal_2_merged_varjo.mp4,error frame,195.28,skill:score,13:2,,varjo,True,195.11009703879498
+1120,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,12.24,skill:score,"6:3, 13:3",,varjo,True,14.502060033499905
+1121,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,14.68,skill:score,"31:2, 21:2, 13:2",,varjo,True,16.942060033499907
+1122,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,36.4,skill:score,"31:2, 21:2,",,varjo,True,38.662060033499905
+1123,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,36.8,skill:score,"6:2, 21:2,",,varjo,True,39.062060033499904
+1124,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,38.36,skill:score,"6:2, 21:2,",,varjo,True,40.622060033499906
+1125,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,42.6,skill:score,26:2,,varjo,True,44.86206003349991
+1126,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,46.12,skill:score,33:2,,varjo,True,48.382060033499904
+1127,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,47.2,skill:score,6:3,,varjo,True,49.46206003349991
+1128,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,53.56,skill:score,6:3,,varjo,True,55.82206003349991
+1129,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,65.16,skill:score,10:2,,varjo,True,67.4220600334999
+1130,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,78.04,skill:score,6:2,,varjo,True,80.30206003349991
+1131,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,81.28,skill:score,33:2,,varjo,True,83.54206003349991
+1132,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,81.56,skill:score,"3:2, 31:2",,varjo,True,83.82206003349991
+1133,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,86.72,skill:score,23:2,,varjo,True,88.9820600334999
+1134,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,100.4,skill:score,10:2,,varjo,True,102.66206003349991
+1135,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,101.0,skill:score,33:2,,varjo,True,103.2620600334999
+1136,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,101.96,skill:score,"6:2, 13:2",,varjo,True,104.2220600334999
+1137,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,105.96,skill:score,32:2,,varjo,True,108.2220600334999
+1138,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,109.08,skill:score,"6:2, 8:2",,varjo,True,111.3420600334999
+1139,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,115.2,skill:score,"6:2, 13:2",,varjo,True,117.46206003349991
+1140,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,117.64,skill:score,7:2,,varjo,True,119.90206003349991
+1141,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,122.08,skill:score,29:2,,varjo,True,124.3420600334999
+1142,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,124.04,skill:score,"6:2, 8:2, 13:2, 21:2",,varjo,True,126.30206003349991
+1143,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,135.4,skill:score,"31:2, 13:2",,varjo,True,137.6620600334999
+1144,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,140.0,skill:score,23:2,,varjo,True,142.2620600334999
+1145,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,141.16,skill:score,"31:2, 13:2",,varjo,True,143.4220600334999
+1146,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,145.96,skill:score,23:2,,varjo,True,148.2220600334999
+1147,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,147.0,skill:score,10:2,,varjo,True,149.2620600334999
+1148,P14,cereal,P14_cereal_2_merged_2022-02-01_14-06-21-511.mp4,error frame,161.04,skill:score,"31:2, 13:2, 10:2",,varjo,True,163.30206003349988
+1149,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,23.36,skill:score,"8:2, 21:2",,varjo,True,27.42099059679254
+1150,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,28.52,skill:score,"8:2, 21:2",,varjo,True,32.58099059679254
+1151,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,32.92,skill:score,8:2,,varjo,True,36.980990596792545
+1152,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,47.76,skill:score,8:2,,varjo,True,51.82099059679254
+1153,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,56.12,skill:score,33:2,,varjo,True,60.18099059679254
+1154,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,58.68,skill:score,"24:2, 23:2",,varjo,True,62.74099059679254
+1155,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,63.08,skill:score,"6:2, 23:2",,varjo,True,67.14099059679253
+1156,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,75.4,skill:score,31:2,,varjo,True,79.46099059679254
+1157,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,77.32,skill:score,24:2,,varjo,True,81.38099059679253
+1158,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,84.52,skill:score,"3:2, 31:2, 21:2",,varjo,True,88.58099059679253
+1159,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,93.56,skill:score,29:2,,varjo,True,97.62099059679254
+1160,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,97.24,skill:score,3:2,,varjo,True,101.30099059679253
+1161,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,97.72,skill:score,"10:2, 23:2",,varjo,True,101.78099059679253
+1162,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,101.24,skill:score,"23:2, 24:2",,varjo,True,105.30099059679253
+1163,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,105.32,skill:score,24:2,,varjo,True,109.38099059679253
+1164,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,118.4,skill:score,8:2,,varjo,True,122.46099059679254
+1165,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,150.24,skill:score,6:2,,varjo,True,154.30099059679256
+1166,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,157.72,skill:score,"6:2, 7:2, 31:2",,varjo,True,161.78099059679255
+1167,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,161.72,skill:score,29:2,,varjo,True,165.78099059679255
+1168,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,165.84,skill:score,8:2,,varjo,True,169.90099059679255
+1169,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,197.12,skill:score,26:2,,varjo,True,201.18099059679255
+1170,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,205.84,skill:score,8:2,,varjo,True,209.90099059679255
+1171,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,209.48,skill:score,6:2,,varjo,True,213.54099059679254
+1172,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,242.56,skill:score,"29:2, 28:2",,varjo,True,246.62099059679255
+1173,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,297.36,skill:score,"6:2, 31:2",,varjo,True,301.42099059679254
+1174,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,303.2,skill:score,"31:2, 13:2",,varjo,True,307.2609905967925
+1175,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,324.68,skill:score,"33:2, 32:2",,varjo,True,328.7409905967925
+1176,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,338.2,skill:score,24:2,,varjo,True,342.2609905967925
+1177,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,350.76,skill:score,3:2,,varjo,True,354.8209905967925
+1178,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,353.88,skill:score,23:2,,varjo,True,357.9409905967925
+1179,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,354.72,skill:score,"6:2, 31:2, 21:2",,varjo,True,358.78099059679255
+1180,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,356.6,skill:score,"6:2, 31:2",,varjo,True,360.66099059679254
+1181,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,371.68,skill:score,"23:2, 3:2",,varjo,True,375.7409905967925
+1182,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,380.72,skill:score,31:2,,varjo,True,384.78099059679255
+1183,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,386.04,skill:score,"31:2, 13:2, 21:2",,varjo,True,390.10099059679254
+1184,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,388.4,skill:score,8:2,,varjo,True,392.4609905967925
+1185,P19,sandwich,P19_sandwich_2_merged_varjo_2022-02-11_10-57-49-168.mp4,error frame,391.24,skill:score,6:2,,varjo,True,395.30099059679253
+1186,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,13.28,skill:score,13:2,,varjo,True,10.640730149275683
+1187,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,18.0,skill:score,"31:2, 7:2",,varjo,True,15.360730149275684
+1188,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,28.96,skill:score,"23:2, 27:2, 3:2",,varjo,True,26.320730149275683
+1189,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,34.4,skill:score,24:2,,varjo,True,31.76073014927568
+1190,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,43.44,skill:score,"24:2, 8:2",,varjo,True,40.80073014927568
+1191,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,45.72,skill:score,"31:3, 13:2, 6:2",,varjo,True,43.08073014927568
+1192,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,51.36,skill:score,8:2,,varjo,True,48.72073014927568
+1193,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,55.88,skill:score,8:2,,varjo,True,53.240730149275684
+1194,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,58.52,skill:score,8:2,,varjo,True,55.880730149275685
+1195,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,69.92,skill:score,"8:2, 24:2",,varjo,True,67.28073014927568
+1196,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,74.4,skill:score,"13:2, 31:2",,varjo,True,71.76073014927569
+1197,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,82.2,skill:score,"31:2, 6:2",,varjo,True,79.56073014927568
+1198,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,87.08,skill:score,24:2,,varjo,True,84.44073014927568
+1199,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,101.6,skill:score,3:2,,varjo,True,98.96073014927568
+1200,P15,cereal,P15_cereal_2_merged_varjo.mp4,error frame,105.92,skill:score,"13:2, 6:2, 31:2",,varjo,True,103.28073014927568
+1201,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,17.12,skill:score,27:2,,varjo,True,17.909689280320674
+1202,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,29.68,skill:score,"7:2, 6:2",,varjo,True,30.469689280320672
+1203,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,32.08,skill:score,13:2,,varjo,True,32.86968928032067
+1204,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,37.84,skill:score,"27:2,23:2",,varjo,True,38.629689280320676
+1205,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,40.92,skill:score,"20:3, 6:2",,varjo,True,41.709689280320674
+1206,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,44.04,skill:score,"23:2,27:2",,varjo,True,44.82968928032067
+1207,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,51.52,skill:score,6:2,,varjo,True,52.309689280320676
+1208,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,61.48,skill:score,23:2,,varjo,True,62.26968928032067
+1209,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,62.88,skill:score,"6:2,21:2",,varjo,True,63.669689280320675
+1210,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,65.12,skill:score,"20:3,27:2",,varjo,True,65.90968928032068
+1211,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,68.08,skill:score,"6:2, 31:2",,varjo,True,68.86968928032067
+1212,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,71.44,skill:score,29:2,,varjo,True,72.22968928032067
+1213,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,71.56,skill:score,"30:2, 28:2",,varjo,True,72.34968928032067
+1214,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,73.04,skill:score,8:2,,varjo,True,73.82968928032068
+1215,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,76.84,skill:score,8:2,,varjo,True,77.62968928032068
+1216,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,85.12,skill:score,24:2,,varjo,True,85.90968928032068
+1217,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,98.84,skill:score,26:2,,varjo,True,99.62968928032068
+1218,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,105.6,skill:score,23:2,,varjo,True,106.38968928032067
+1219,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,117.52,skill:score,8:2,,varjo,True,118.30968928032067
+1220,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,120.6,skill:score,29:2,,varjo,True,121.38968928032067
+1221,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,126.64,skill:score,"8:2,23:2",,varjo,True,127.42968928032067
+1222,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,156.36,skill:score,"29:2, 28:2",,varjo,True,157.14968928032067
+1223,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,185.4,skill:score,"13:2, 21:2",,varjo,True,186.1896892803207
+1224,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,200.48,skill:score,22:3,,varjo,True,201.26968928032068
+1225,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,210.92,skill:score,24:2,,varjo,True,211.70968928032067
+1226,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,214.64,skill:score,6:2,,varjo,True,215.42968928032064
+1227,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,217.24,skill:score,31:2,,varjo,True,218.02968928032067
+1228,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,218.12,skill:score,29:2,,varjo,True,218.90968928032066
+1229,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,225.88,skill:score,23:2,,varjo,True,226.66968928032065
+1230,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,231.48,skill:score,6:2,,varjo,True,232.26968928032068
+1231,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,247.8,skill:score,8:2,,varjo,True,248.58968928032067
+1232,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,268.56,skill:score,"24:2, 8:2",,varjo,True,269.34968928032066
+1233,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,277.28,skill:score,"1:2, 24:2, 23:2",,varjo,True,278.06968928032063
+1234,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,283.84,skill:score,1:2,,varjo,True,284.62968928032063
+1235,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,286.2,skill:score,23:2,,varjo,True,286.98968928032065
+1236,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,288.24,skill:score,"1:2, 3:2",,varjo,True,289.02968928032067
+1237,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,300.76,skill:score,"7:2, 8:2",,varjo,True,301.54968928032065
+1238,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,315.28,skill:score,23:2,,varjo,True,316.06968928032063
+1239,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,318.84,skill:score,"31:2, 6:2",,varjo,True,319.62968928032063
+1240,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,325.68,skill:score,6:2,,varjo,True,326.46968928032067
+1241,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,329.52,skill:score,1:2,,varjo,True,330.30968928032064
+1242,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,333.84,skill:score,29:2,,varjo,True,334.62968928032063
+1243,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,339.04,skill:score,23:2,,varjo,True,339.8296892803207
+1244,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,352.88,skill:score,29:2,,varjo,True,353.66968928032065
+1245,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,367.64,skill:score,24:2,,varjo,True,368.42968928032064
+1246,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,370.44,skill:score,"31:2, 13:2, 21:2",,varjo,True,371.22968928032066
+1247,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,434.2,skill:score,32:2,,varjo,True,434.98968928032065
+1248,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,439.8,skill:score,"32:2, 33:2",,varjo,True,440.58968928032067
+1249,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,480.52,skill:score,17:2,,varjo,True,481.30968928032064
+1250,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,521.6,skill:score,24:2,,varjo,True,522.3896892803207
+1251,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,524.64,skill:score,29:2,,varjo,True,525.4296892803206
+1252,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,538.04,skill:score,1:2,,varjo,True,538.8296892803206
+1253,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,703.04,skill:score,"1:2, 3:2",,varjo,True,703.8296892803206
+1254,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,721.0,skill:score,10:2,,varjo,True,721.7896892803207
+1255,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,729.76,skill:score,8:2,,varjo,True,730.5496892803206
+1256,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,736.4,skill:score,"13:2, 21:2",,varjo,True,737.1896892803206
+1257,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,745.16,skill:score,29:2,,varjo,True,745.9496892803206
+1258,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,748.32,skill:score,31:2,,varjo,True,749.1096892803207
+1259,P2,sandwich,P2_sandwich_2_merged_varjo_2022-02-04_14-01-31-064.mp4,error frame,753.2,skill:score,"13:2, 31:2",,varjo,True,753.9896892803207
