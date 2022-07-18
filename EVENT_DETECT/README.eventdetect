@@ -9,6 +9,3 @@ run_preprocess
 
 # run event detection on each dataset
 run_event_detect_full
-
-# run analysis
-run_analysis
